@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="YerPalPandora@NCRP"/>
+	<DeletedObject Hash="-2074655778" Position_x="2780.0356445313" Position_y="534.67425537109" Position_z="70.236228942871"/>
+	<Object Hash="-1953797880" Position_x="2780.0893554688" Position_y="534.67749023438" Position_z="70.247177124023" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="84.870971679688" Collision="true" Visible="true"/>
+</Map>

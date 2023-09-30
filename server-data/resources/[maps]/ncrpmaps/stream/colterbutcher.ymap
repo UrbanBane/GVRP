@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-1749.418945" y="2001.850098" z="-94.049713"/>
+	<streamingExtentsMax x="-943.293945" y="2809.798096" z="706.910187"/>
+	<entitiesExtentsMin x="-1349.418945" y="2401.850098" z="305.950287"/>
+	<entitiesExtentsMax x="-1343.293945" y="2409.798096" z="306.910187"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_dressinglcmbutcher01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1343.957275" y="2405.769775" z="306.787323"/>
+			<rotation w="0.971969" x="-0.000000" y="0.000000" z="0.235109"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_steamer_coal_fire</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1347.985107" y="2401.850098" z="306.888428"/>
+			<rotation w="0.512217" x="0.053836" y="-0.089598" z="0.852471"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_cougarbloodpools01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1345.506470" y="2405.937500" z="306.088562"/>
+			<rotation w="0.672115" x="-0.000000" y="0.000000" z="0.740447"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_cs_steakslice01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1344.576050" y="2405.768066" z="306.899536"/>
+			<rotation w="0.498222" x="0.000000" y="-0.000000" z="-0.867049"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_dressinglcmbutcher02x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1344.843872" y="2405.957275" z="306.784882"/>
+			<rotation w="0.982320" x="-0.000000" y="0.000000" z="0.187207"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_veh_pg_vl_butcher01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1344.691772" y="2403.761475" z="305.950287"/>
+			<rotation w="0.979251" x="-0.000000" y="0.000000" z="0.202650"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>s_bucketoblood01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1345.492676" y="2406.096680" z="306.088165"/>
+			<rotation w="0.080702" x="0.000000" y="-0.000000" z="-0.996738"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_boxlrgmeat01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1343.293945" y="2406.096191" z="306.066986"/>
+			<rotation w="0.138307" x="0.000000" y="-0.000000" z="-0.990389"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_deerhanging03x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1349.418945" y="2409.798096" z="306.281433"/>
+			<rotation w="0.167937" x="-0.000000" y="0.000000" z="0.985798"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_steamer_coal_fire</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1347.802246" y="2402.322266" z="306.888428"/>
+			<rotation w="0.512217" x="0.053836" y="-0.089598" z="0.852471"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_wrappedmeat01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1344.432251" y="2406.102539" z="306.910187"/>
+			<rotation w="0.269140" x="0.000000" y="-0.000000" z="-0.963101"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_steamer_coal_fire</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1347.514160" y="2402.840820" z="306.868408"/>
+			<rotation w="0.834077" x="0.087665" y="0.056930" z="-0.541655"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>s_campfire_under01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1347.783203" y="2402.422607" z="306.237488"/>
+			<rotation w="1.000000" x="0.000000" y="-0.000000" z="-0.000000"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_wrappedmeat01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1344.526001" y="2406.209229" z="306.910187"/>
+			<rotation w="0.763210" x="0.000000" y="-0.000000" z="-0.646150"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_meatpile01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1344.007202" y="2405.846436" z="306.899963"/>
+			<rotation w="0.250456" x="0.000000" y="-0.000000" z="-0.968128"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

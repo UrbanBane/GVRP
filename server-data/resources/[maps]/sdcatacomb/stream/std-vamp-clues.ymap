@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-400.000000" y="-1468.308716" z="-450.404037"/>
+	<streamingExtentsMax x="3173.496582" y="400.000000" z="446.697132"/>
+	<entitiesExtentsMin x="0.000000" y="-1068.308716" z="-50.404037"/>
+	<entitiesExtentsMax x="2773.496582" y="0.000000" z="46.697132"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_bonesskeleton02x</archetypeName>
+			<flags value="1572897"/>
+			<position x="2767.861572" y="-1040.905884" z="45.897472"/>
+			<rotation w="0.488591" x="-0.000000" y="0.000000" z="0.872513"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>s_male_skeleton04</archetypeName>
+			<flags value="1572897"/>
+			<position x="2724.980713" y="-1068.308716" z="-50.404037"/>
+			<rotation w="0.602947" x="-0.035380" y="-0.016432" z="-0.796827"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_laundrypile01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="2768.499512" y="-1042.607422" z="45.885395"/>
+			<rotation w="0.517817" x="-0.000000" y="0.000000" z="0.855492"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_bobcatbloodpools01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="2773.162598" y="-1047.434204" z="46.117119"/>
+			<rotation w="0.877371" x="-0.000000" y="0.000000" z="0.479813"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_vfxbloodspatter</archetypeName>
+			<flags value="1572897"/>
+			<position x="0.000000" y="0.000000" z="0.000000"/>
+			<rotation w="0.835311" x="-0.000000" y="0.000000" z="0.549778"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_vfxbloodspatter</archetypeName>
+			<flags value="1572897"/>
+			<position x="2773.496582" y="-1047.308105" z="46.116806"/>
+			<rotation w="0.999973" x="0.000000" y="-0.000000" z="-0.007294"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp008_p_mp_letter04x_bloody</archetypeName>
+			<flags value="1572897"/>
+			<position x="2770.103027" y="-1050.823975" z="46.697132"/>
+			<rotation w="0.862214" x="-0.000000" y="0.000000" z="0.506545"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

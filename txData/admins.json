@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hughesyy",
+    "master": true,
+    "password_hash": "$2a$11$KHNA7pD6kikptsZjuwqhUu0brNzZPMtoHGzcFF8EBXFIFclloPaqy",
+    "providers": {
+      "citizenfx": {
+        "id": "Hughesyy",
+        "identifier": "fivem:6854902",
+        "data": {
+          "sub": "029777a1958acf557c482af241431e6d",
+          "nameid": "https://forum.cfx.re/internal/user/6854902",
+          "name": "Hughesyy",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/hughesyy/256/2535940_2.png",
+          "profile": "https://forum.cfx.re/u/Hughesyy"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

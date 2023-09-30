@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="YerPalPandora@NCRP"/>
+	<DeletedObject Hash="817752047" Position_x="1327.0202636719" Position_y="-1321.4630126953" Position_z="76.882865905762"/>
+	<DeletedObject Hash="563067872" Position_x="1330.8746337891" Position_y="-1369.4410400391" Position_z="79.491371154785"/>
+	<DeletedObject Hash="-1390073086" Position_x="1330.8521728516" Position_y="-1369.3620605469" Position_z="81.010040283203"/>
+	<DeletedObject Hash="1577835233" Position_x="1330.8892822266" Position_y="-1369.5153808594" Position_z="81.087814331055"/>
+	<DeletedObject Hash="87457520" Position_x="1331.9450683594" Position_y="-1371.6558837891" Position_z="79.491516113281"/>
+	<DeletedObject Hash="-1871171322" Position_x="1332.4794921875" Position_y="-1371.43359375" Position_z="79.490173339844"/>
+	<DeletedObject Hash="1453336830" Position_x="1331.9107666016" Position_y="-1372.0845947266" Position_z="79.491882324219"/>
+	<DeletedObject Hash="193149167" Position_x="1266.8349609375" Position_y="-1299.1343994141" Position_z="76.015647888184"/>
+	<DeletedObject Hash="1311783028" Position_x="1267.0903320313" Position_y="-1302.3922119141" Position_z="76.032005310059"/>
+	<DeletedObject Hash="1311783028" Position_x="1271.0830078125" Position_y="-1296.5699462891" Position_z="75.944175720215"/>
+	<DeletedObject Hash="173098952" Position_x="1271.6782226563" Position_y="-1295.7288818359" Position_z="75.992286682129"/>
+	<DeletedObject Hash="193149167" Position_x="1270.9932861328" Position_y="-1294.9189453125" Position_z="76.010925292969"/>
+	<DeletedObject Hash="198386616" Position_x="1274.5541992188" Position_y="-1310.5782470703" Position_z="75.594734191895"/>
+	<DeletedObject Hash="2038357529" Position_x="1262.3697509766" Position_y="-1294.8100585938" Position_z="75.652290344238"/>
+	<DeletedObject Hash="-1100387700" Position_x="1254.787109375" Position_y="-1290.0596923828" Position_z="75.341682434082"/>
+	<Object Hash="-1296956692" Position_x="1349.7525634766" Position_y="-1382.279296875" Position_z="79.912796020508" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-10.03554725647" Collision="true" Visible="true"/>
+</Map>

@@ -1,0 +1,308 @@
+﻿{
+  "defaultlang": "En",
+  "KeyToEnter": "0xC7B5340A",
+  "CloseDoors": true,
+
+  "Doors": [
+    //SAINT DENIS
+    [ 2685.7612304688, -1359.5030517578, 47.215068817139, 130.31652832031 ],
+    [ 2686.4736328125, -1360.3505859375, 47.215072631836, 130.13496398926 ],
+    [ 2689.6804199219, -1364.1772460938, 47.215209960938, 129.9937286377 ],
+    [ 2688.9660644531, -1363.3248291016, 47.215187072754, 129.9937286377 ],
+    //BLACKWATER
+    [ -786.05645751953, -1361.9763183594, 42.90970993042, 270.23913574219 ],
+    [ -786.05645751953, -1363.3400878906, 42.90970993042, 90.19100189209 ]
+  ],
+
+  //MOVIEID: PL_MLAN_BEAR, PL_MLAN_JOSIAH_BLACKWATER, PL_MLAN_SECRET_OF_MANFLIGHT, PL_MLAN_SAVIORS_AND_SAVAGES, PL_MLAN_GHOST_STORY, PL_TOON_DIRECT_CURRENT_DAMNATION, PL_TOON_FARMERS_DAUGHTER, PL_TOON_MODERN_MEDICINE, PL_TOON_WORLDS_STRONGEST_MAN, PL_TOON_SKETCHING_FOR_SWEETHEART
+  "Cinemas": [
+    {
+      "Name": "Saint Denis Cinema",
+      "NPCModel": "A_M_M_MiddleSDTownfolk_03",
+      "BlipIcon": -417940443,
+      "EnterCinema": [ 2685.92, -1362.85, 48.21, 2.0 ],
+      "ExitCinema": [ 2688.38, -1360.57, 48.22, 2.0 ],
+      "AnimationCoord": [ 2683.33, -1364.82, 47.5 ],
+      "Price": 15.0,
+      "NPCCinema": [ 2686.83, -1362.12, 47.21, 136.17 ],
+      "CinemaScreen": {
+        "Coords": [ 2702.49, -1348.78, 49.61 ],
+        "Rotation": [ 0.0, 0.0, 130.1 ]
+      },
+      "Listings": [
+        {
+          "Name": "Mr Bear's First Winter",
+          "MovieID": "PL_MLAN_BEAR",
+          "HourOfDay": 9, //SERVER TIME (-8 GMT)
+          "MinuteOfDay": 55, //SERVER TIME (-8 GMT)
+          "MinutesToClose": 5, //INTERVAL UNTIL SCREENING BEGINS
+          "Announce": true //ANNOUNCE TO GLOBAL YES OR NO - DOESNT SEEM TO WORK?
+        },
+        {
+          "Name": "Sketching for Sweetheart",
+          "MovieID": "PL_TOON_SKETCHING_FOR_SWEETHEART",
+          "HourOfDay": 10,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Legend of Josiah Blackwater",
+          "MovieID": "PL_MLAN_JOSIAH_BLACKWATER",
+          "HourOfDay": 11,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Secrets of Man Flight",
+          "MovieID": "PL_MLAN_SECRET_OF_MANFLIGHT",
+          "HourOfDay": 12,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Farmer's Daughter",
+          "MovieID": "PL_TOON_FARMERS_DAUGHTER",
+          "HourOfDay": 13,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "World's Strongest Man",
+          "MovieID": "PL_TOON_WORLDS_STRONGEST_MAN",
+          "HourOfDay": 14,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Ghastly Serenade",
+          "MovieID": "PL_MLAN_GHOST_STORY",
+          "HourOfDay": 15,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "Modern Medicine",
+          "MovieID": "PL_TOON_MODERN_MEDICINE",
+          "HourOfDay": 16,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },       
+        {
+          "Name": "Direct Current Damnation",
+          "MovieID": "PL_TOON_DIRECT_CURRENT_DAMNATION",
+          "HourOfDay": 17,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "Saviors and Savages",
+          "MovieID": "PL_MLAN_SAVIORS_AND_SAVAGES",
+          "HourOfDay": 18,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        } 
+      ]
+    },    
+    {
+      "Name": "Blackwater Cinema",
+      "NPCModel": "A_F_M_ARMTOWNFOLK_01",
+      "BlipIcon": -417940443,
+      "EnterCinema": [ -788.57, -1362.66, 43.82, 2.0 ],
+      "ExitCinema": [ -784.19, -1362.58, 44.21, 2.0 ],
+      "AnimationCoord": [ -794.2, -1359.5, 43.76 ],
+      "Price": 10.0,
+      "NPCCinema": [ -789.8, -1362.68, 42.82, 274.55 ],
+      "CinemaScreen": {
+        "Coords": [ -772.29, -1362.65, 45.32 ],
+        "Rotation": [ 0.0, 0.0, 90.0 ]
+      },
+      "Listings": [
+        {
+          "Name": "Mr Bear's First Winter",
+          "MovieID": "PL_MLAN_BEAR",
+          "HourOfDay": 9, //SERVER TIME (-8 GMT)
+          "MinuteOfDay": 55, //SERVER TIME (-8 GMT)
+          "MinutesToClose": 5, //INTERVAL UNTIL SCREENING BEGINS
+          "Announce": true //ANNOUNCE TO GLOBAL YES OR NO - DOESNT SEEM TO WORK?
+        },
+        {
+          "Name": "Sketching for Sweetheart",
+          "MovieID": "PL_TOON_SKETCHING_FOR_SWEETHEART",
+          "HourOfDay": 10,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Legend of Josiah Blackwater",
+          "MovieID": "PL_MLAN_JOSIAH_BLACKWATER",
+          "HourOfDay": 11,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Secrets of Man Flight",
+          "MovieID": "PL_MLAN_SECRET_OF_MANFLIGHT",
+          "HourOfDay": 12,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Farmer's Daughter",
+          "MovieID": "PL_TOON_FARMERS_DAUGHTER",
+          "HourOfDay": 13,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "World's Strongest Man",
+          "MovieID": "PL_TOON_WORLDS_STRONGEST_MAN",
+          "HourOfDay": 14,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Ghastly Serenade",
+          "MovieID": "PL_MLAN_GHOST_STORY",
+          "HourOfDay": 15,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "Modern Medicine",
+          "MovieID": "PL_TOON_MODERN_MEDICINE",
+          "HourOfDay": 16,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },       
+        {
+          "Name": "Direct Current Damnation",
+          "MovieID": "PL_TOON_DIRECT_CURRENT_DAMNATION",
+          "HourOfDay": 17,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "Saviors and Savages",
+          "MovieID": "PL_MLAN_SAVIORS_AND_SAVAGES",
+          "HourOfDay": 18,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        }
+      ]
+    },
+    {
+      "Name": "Valentine Cinema",
+      "NPCModel": "A_F_M_ARMTOWNFOLK_01",
+      "BlipIcon": -417940443,
+      "EnterCinema": [ -351.68, 704.38, 117.66, 3.0 ],
+      "ExitCinema": [ -347.1, 702.7, 117.68, 1.0 ],
+      "AnimationCoord": [ -352.24, 707.1, 116.85 ],
+      "Price": 15.0,
+      "NPCCinema": [ -355.14, 705.0, 115.92, 347.97 ],
+      "CinemaScreen": {
+        "Coords": [ -346.8974, 692.4412, 118.3474 ],
+        "Rotation": [ 0.0, 0.0, 15.0 ]
+      },
+      "Listings": [
+        {
+          "Name": "Mr Bear's First Winter",
+          "MovieID": "PL_MLAN_BEAR",
+          "HourOfDay": 9, //SERVER TIME (-8 GMT)
+          "MinuteOfDay": 55, //SERVER TIME (-8 GMT)
+          "MinutesToClose": 5, //INTERVAL UNTIL SCREENING BEGINS
+          "Announce": true //ANNOUNCE TO GLOBAL YES OR NO - DOESNT SEEM TO WORK?
+        },
+        {
+          "Name": "Sketching for Sweetheart",
+          "MovieID": "PL_TOON_SKETCHING_FOR_SWEETHEART",
+          "HourOfDay": 10,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Legend of Josiah Blackwater",
+          "MovieID": "PL_MLAN_JOSIAH_BLACKWATER",
+          "HourOfDay": 11,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Secrets of Man Flight",
+          "MovieID": "PL_MLAN_SECRET_OF_MANFLIGHT",
+          "HourOfDay": 12,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Farmer's Daughter",
+          "MovieID": "PL_TOON_FARMERS_DAUGHTER",
+          "HourOfDay": 13,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "World's Strongest Man",
+          "MovieID": "PL_TOON_WORLDS_STRONGEST_MAN",
+          "HourOfDay": 14,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "The Ghastly Serenade",
+          "MovieID": "PL_MLAN_GHOST_STORY",
+          "HourOfDay": 15,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "Modern Medicine",
+          "MovieID": "PL_TOON_MODERN_MEDICINE",
+          "HourOfDay": 16,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },       
+        {
+          "Name": "Direct Current Damnation",
+          "MovieID": "PL_TOON_DIRECT_CURRENT_DAMNATION",
+          "HourOfDay": 17,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        },
+        {
+          "Name": "Saviors and Savages",
+          "MovieID": "PL_MLAN_SAVIORS_AND_SAVAGES",
+          "HourOfDay": 18,
+          "MinuteOfDay": 55,
+          "MinutesToClose": 5,
+          "Announce": true
+        }
+      ]
+    }
+  ]
+}

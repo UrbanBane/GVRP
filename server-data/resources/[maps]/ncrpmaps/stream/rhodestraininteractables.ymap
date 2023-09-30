@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="821.987061" y="-1688.902954" z="-324.110680"/>
+	<streamingExtentsMax x="1623.060547" y="-887.028320" z="475.890160"/>
+	<entitiesExtentsMin x="1221.987061" y="-1288.902954" z="75.889320"/>
+	<entitiesExtentsMax x="1223.060547" y="-1287.028320" z="75.890160"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_stool04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1222.178955" y="-1287.333008" z="75.889320"/>
+			<rotation w="0.918498" x="0.000000" y="-0.000000" z="-0.395425"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stool04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1221.987061" y="-1288.232178" z="75.889320"/>
+			<rotation w="0.652456" x="0.000000" y="-0.000000" z="-0.757827"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stool04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1222.029663" y="-1288.902954" z="75.890160"/>
+			<rotation w="0.918763" x="0.000000" y="-0.000000" z="-0.394810"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stool04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1223.060547" y="-1287.028320" z="75.889320"/>
+			<rotation w="0.998319" x="-0.000000" y="0.000000" z="0.057961"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

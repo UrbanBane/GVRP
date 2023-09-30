@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="YerPalPandora@NCRP"/>
+	<Object Hash="488855249" Position_x="-330.25228881836" Position_y="-356.99340820313" Position_z="87.061126708984" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="82.848907470703" Collision="true" Visible="true"/>
+	<Object Hash="-2078891512" Position_x="-327.67367553711" Position_y="-357.77822875977" Position_z="87.860717773438" Rotation_x="0.99999982118606" Rotation_y="0.0" Rotation_z="-151.68002319336" Collision="true" Visible="true"/>
+	<Object Hash="1504738597" Position_x="-324.61526489258" Position_y="-359.65090942383" Position_z="87.071495056152" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-132.56416320801" Collision="true" Visible="true"/>
+	<Object Hash="-289651159" Position_x="-327.43804931641" Position_y="-356.6696472168" Position_z="87.065437316895" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-10.796101570129" Collision="true" Visible="true"/>
+	<Object Hash="1230724566" Position_x="-328.77786254883" Position_y="-357.19235229492" Position_z="87.066253662109" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="63.731018066406" Collision="true" Visible="true"/>
+	<Object Hash="-1528680970" Position_x="-326.56341552734" Position_y="-358.27667236328" Position_z="87.069389343262" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-111.50149536133" Collision="true" Visible="true"/>
+	<Object Hash="-289651159" Position_x="-327.89443969727" Position_y="-358.919921875" Position_z="87.075233459473" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="168.99761962891" Collision="true" Visible="true"/>
+	<Object Hash="1504738597" Position_x="-328.94122314453" Position_y="-355.72113037109" Position_z="87.055015563965" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="27.388898849487" Collision="true" Visible="true"/>
+</Map>

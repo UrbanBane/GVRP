@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+	<name>rho_church_int</name>
+	<parent/>
+	<flags value="1" />
+	<contentFlags value="73" />
+	<streamingExtentsMin x="1129.663940" y="-1384.257813" z="-73.581833"/>
+	<streamingExtentsMax x="1447.304321" y="-1066.617432" z="244.058502"/>
+	<entitiesExtentsMin x="1279.663940" y="-1234.257813" z="76.418167"/>
+	<entitiesExtentsMax x="1297.304321" y="-1216.617432" z="94.058502"/>
+	<entities>
+		<Item type="CMloInstanceDef">
+			<archetypeName>rho_church_int</archetypeName>
+			<flags value="1572864" />
+			<position x="1288.48413" y="-1225.43762" z="85.2383347" />
+   			<rotation x="0.000575" y="-0.00326199946" z="0.17602098" w="0.984380841" />
+			<scaleXY value="1.00000000" />
+			<scaleZ value="1.00000000" />
+			<parentIndex value="-1" />
+			<lodDist value="90.00000000" />
+			<childLodDist value="0.00000000" />
+			<lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+			<numChildren value="0" />
+			<priorityLevel>PRI_REQUIRED</priorityLevel>
+			<extensions />
+			<redm_loves_you_2158e9a42f04a7dc value="255" />
+			<redm_loves_you_7dd29b0dd179bea5 value="255" />
+			<tintValue value="0" />
+			<groupId>IG_ID_NONE</groupId>
+			<floorId value="0" />
+			<defaultEntitySets />
+			<numExitPortals value="11" />
+			<MLOInstflags value="0" />
+			<redm_loves_you_cf303652f51cff2d value="0.00000000" />
+		</Item>
+	</entities>
+	<containerLods />
+	<boxOccluders />
+	<occludeModels />
+	<physicsDictionaries>
+		<Item>rho_church_int</Item>
+	</physicsDictionaries>
+	<instancedData type="rage__fwInstancedMapData">
+		<ImapLink />
+		<PropInstanceList />
+		<GrassInstanceList />
+	</instancedData>
+	<timeCycleModifiers />
+	<awOyxCA_0x8471928B />
+	<dakdTAA_0x4D4A0635 />
+	<carGenerators />
+	<LODLightsSOA type="CLODLight">
+		<direction />
+		<falloff />
+		<falloffExponent />
+		<timeAndStateFlags />
+		<hash />
+		<coneInnerAngle/>
+		<coneOuterAngleOrCapExt />
+		<coronaIntensity />
+		<XVPnEEA_0xFFD167D6 />
+	</LODLightsSOA>
+	<DistantLODLightsSOA type="CDistantLODLight">
+		<position />
+		<IyySyoA_0x94720DEC />
+		<intensity />
+		<numStreetLights value="0" />
+		<category value="0" />
+		<powerGridId />
+		<hash />
+	</DistantLODLightsSOA>
+	<block type="CBlockDesc">
+		<version value="0" />
+		<flags value="0" />
+		<name />
+		<exportedBy />
+		<owner />
+		<time />
+	</block>
+</CMapData>

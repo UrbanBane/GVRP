@@ -1,0 +1,866 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-1185.613525" y="-1766.689331" z="-357.199234"/>
+	<streamingExtentsMax x="-376.123718" y="-958.618652" z="443.687832"/>
+	<entitiesExtentsMin x="-785.613525" y="-1366.689331" z="42.800766"/>
+	<entitiesExtentsMax x="-776.123718" y="-1358.618652" z="43.687832"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-783.643250" y="-1366.655884" z="43.537411"/>
+			<rotation w="0.705965" x="-0.035511" y="-0.034135" z="-0.706532"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-785.613342" y="-1364.746338" z="43.680832"/>
+			<rotation w="0.711402" x="-0.026427" y="-0.027727" z="-0.701741"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.036682" y="-1359.371460" z="43.000576"/>
+			<rotation w="0.707463" x="-0.034397" y="-0.036458" z="-0.704971"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.044495" y="-1360.015869" z="43.000576"/>
+			<rotation w="0.707463" x="-0.034397" y="-0.036458" z="-0.704971"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.144287" y="-1364.659546" z="42.809944"/>
+			<rotation w="0.704625" x="-0.036276" y="-0.034311" z="-0.707821"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-783.631226" y="-1366.004395" z="43.537411"/>
+			<rotation w="0.705965" x="-0.035511" y="-0.034135" z="-0.706531"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.046204" y="-1365.284302" z="43.007675"/>
+			<rotation w="0.700121" x="-0.033334" y="-0.036264" z="-0.712323"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.791809" y="-1364.628418" z="43.375751"/>
+			<rotation w="0.709420" x="-0.035342" y="-0.034310" z="-0.703063"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.150452" y="-1365.936035" z="42.809944"/>
+			<rotation w="0.704625" x="-0.036276" y="-0.034311" z="-0.707821"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.153992" y="-1365.278564" z="42.809944"/>
+			<rotation w="0.704625" x="-0.036276" y="-0.034311" z="-0.707821"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.863403" y="-1359.364502" z="43.177937"/>
+			<rotation w="0.706161" x="-0.032821" y="-0.036730" z="-0.706336"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.156799" y="-1366.585938" z="42.809944"/>
+			<rotation w="0.704625" x="-0.036276" y="-0.034311" z="-0.707821"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-783.628418" y="-1365.365967" z="43.537411"/>
+			<rotation w="0.705965" x="-0.035511" y="-0.034135" z="-0.706531"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.862366" y="-1361.304199" z="43.181938"/>
+			<rotation w="0.706778" x="-0.032853" y="-0.036701" z="-0.705718"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.141418" y="-1364.026245" z="42.809944"/>
+			<rotation w="0.704625" x="-0.036276" y="-0.034311" z="-0.707821"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.045410" y="-1366.587158" z="43.007675"/>
+			<rotation w="0.712446" x="-0.033962" y="-0.035677" z="-0.699996"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-785.613525" y="-1366.032349" z="43.680832"/>
+			<rotation w="0.711402" x="-0.026427" y="-0.027727" z="-0.701741"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.048767" y="-1365.943237" z="43.007675"/>
+			<rotation w="0.700121" x="-0.033334" y="-0.036264" z="-0.712323"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.128784" y="-1359.378418" z="42.809601"/>
+			<rotation w="0.706628" x="-0.034499" y="-0.035158" z="-0.705869"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.039429" y="-1364.661499" z="43.007675"/>
+			<rotation w="0.700121" x="-0.033334" y="-0.036264" z="-0.712323"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-785.599243" y="-1360.475586" z="43.687832"/>
+			<rotation w="0.707731" x="-0.024260" y="-0.027472" z="-0.705531"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.037903" y="-1360.664063" z="43.000576"/>
+			<rotation w="0.707463" x="-0.034397" y="-0.036458" z="-0.704971"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.800293" y="-1364.001465" z="43.375751"/>
+			<rotation w="0.709420" x="-0.035342" y="-0.034310" z="-0.703063"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.050598" y="-1364.036011" z="43.007675"/>
+			<rotation w="0.700121" x="-0.033334" y="-0.036264" z="-0.712323"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-785.605774" y="-1365.400635" z="43.680832"/>
+			<rotation w="0.711402" x="-0.026427" y="-0.027727" z="-0.701741"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.889954" y="-1366.582397" z="43.177383"/>
+			<rotation w="0.703030" x="-0.035052" y="-0.034606" z="-0.709452"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.786072" y="-1359.356079" z="43.366169"/>
+			<rotation w="0.715526" x="-0.032121" y="-0.038479" z="-0.696785"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.897400" y="-1364.645020" z="43.177383"/>
+			<rotation w="0.703030" x="-0.035052" y="-0.034606" z="-0.709452"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.778381" y="-1359.987915" z="43.378475"/>
+			<rotation w="0.709005" x="-0.031603" y="-0.038905" z="-0.703420"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.129761" y="-1361.309204" z="42.800766"/>
+			<rotation w="0.704690" x="-0.035206" y="-0.034450" z="-0.707803"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.869751" y="-1358.737427" z="43.177937"/>
+			<rotation w="0.703691" x="-0.032692" y="-0.036844" z="-0.708797"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.891785" y="-1364.008179" z="43.177383"/>
+			<rotation w="0.709194" x="-0.035353" y="-0.034299" z="-0.703290"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.804016" y="-1366.563599" z="43.375751"/>
+			<rotation w="0.709420" x="-0.035342" y="-0.034310" z="-0.703063"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-783.602539" y="-1359.241699" z="43.546753"/>
+			<rotation w="0.709081" x="-0.033208" y="-0.037545" z="-0.703344"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.035522" y="-1361.315674" z="43.000576"/>
+			<rotation w="0.707463" x="-0.034397" y="-0.036458" z="-0.704971"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.901611" y="-1365.276489" z="43.177383"/>
+			<rotation w="0.703030" x="-0.035052" y="-0.034606" z="-0.709452"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.776062" y="-1361.296265" z="43.378475"/>
+			<rotation w="0.713286" x="-0.031840" y="-0.038711" z="-0.699078"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.123718" y="-1360.680298" z="42.809601"/>
+			<rotation w="0.706627" x="-0.034499" y="-0.035158" z="-0.705870"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.864685" y="-1360.643555" z="43.177937"/>
+			<rotation w="0.706778" x="-0.032853" y="-0.036701" z="-0.705719"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-785.601929" y="-1361.139282" z="43.687832"/>
+			<rotation w="0.707731" x="-0.024260" y="-0.027472" z="-0.705531"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.795227" y="-1365.275391" z="43.375751"/>
+			<rotation w="0.709420" x="-0.035342" y="-0.034310" z="-0.703063"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.770081" y="-1358.724243" z="43.371567"/>
+			<rotation w="0.704882" x="-0.035196" y="-0.034460" z="-0.707613"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.124329" y="-1360.010620" z="42.809601"/>
+			<rotation w="0.706627" x="-0.034499" y="-0.035158" z="-0.705869"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-783.595337" y="-1358.618652" z="43.546753"/>
+			<rotation w="0.704153" x="-0.032945" y="-0.037776" z="-0.708276"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-785.607117" y="-1366.689331" z="43.680832"/>
+			<rotation w="0.711402" x="-0.026427" y="-0.027727" z="-0.701741"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.864136" y="-1360.002441" z="43.177937"/>
+			<rotation w="0.706778" x="-0.032853" y="-0.036701" z="-0.705719"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.802185" y="-1365.918335" z="43.375751"/>
+			<rotation w="0.709420" x="-0.035342" y="-0.034310" z="-0.703063"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-778.033936" y="-1358.739380" z="43.000576"/>
+			<rotation w="0.706232" x="-0.034333" y="-0.036518" z="-0.706204"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-779.894287" y="-1365.931030" z="43.177383"/>
+			<rotation w="0.703030" x="-0.035052" y="-0.034606" z="-0.709452"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-783.641113" y="-1364.736572" z="43.537411"/>
+			<rotation w="0.705965" x="-0.035511" y="-0.034135" z="-0.706531"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-776.124756" y="-1358.744019" z="42.809601"/>
+			<rotation w="0.712761" x="-0.034804" y="-0.034855" z="-0.699676"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.774536" y="-1359.992798" z="43.371567"/>
+			<rotation w="0.707962" x="-0.035346" y="-0.034306" z="-0.704530"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-783.597046" y="-1359.870728" z="43.546753"/>
+			<rotation w="0.709081" x="-0.033208" y="-0.037545" z="-0.703344"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.773560" y="-1359.351929" z="43.371567"/>
+			<rotation w="0.707962" x="-0.035346" y="-0.034306" z="-0.704530"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-785.613525" y="-1364.113037" z="43.680832"/>
+			<rotation w="0.711402" x="-0.026427" y="-0.027727" z="-0.701741"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-781.778137" y="-1360.645020" z="43.378475"/>
+			<rotation w="0.703457" x="-0.031296" y="-0.039152" z="-0.708969"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_theaterchair01b01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-783.612488" y="-1360.528320" z="43.546753"/>
+			<rotation w="0.709081" x="-0.033208" y="-0.037545" z="-0.703344"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

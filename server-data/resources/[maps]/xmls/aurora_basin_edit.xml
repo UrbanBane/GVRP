@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<Map>
+    <MapMeta Creator="CoreySylvester"/>
+    <Object Hash="-146418039" Position_x="-2571.2751" Position_y="-1388.3302" Position_z="145.4528" Rotation_x="0" Rotation_y="0" Rotation_z="86.999802" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1933638247" Position_x="-2574.5261" Position_y="-1389.7351" Position_z="148.5896" Rotation_x="-1.025" Rotation_y="0" Rotation_z="96.199799" TextureVariation="0" Collision="true" Dynamic="false" LOD="25" BlipHash="0" BlipType="0"/>
+    <Object Hash="1117841450" Position_x="-2583.9448" Position_y="-1381.8839" Position_z="148.2244" Rotation_x="92.249802" Rotation_y="-35.874901" Rotation_z="87.649696" TextureVariation="0" Collision="true" Dynamic="false" LOD="60" BlipHash="0" BlipType="0"/>
+    <Object Hash="1117841450" Position_x="-2583.9729" Position_y="-1380.7092" Position_z="148.22749" Rotation_x="92.249802" Rotation_y="-35.874901" Rotation_z="86.624702" TextureVariation="0" Collision="true" Dynamic="false" LOD="60" BlipHash="0" BlipType="0"/>
+    <Object Hash="1117841450" Position_x="-2583.9702" Position_y="-1379.5752" Position_z="148.24561" Rotation_x="92.249802" Rotation_y="-35.874901" Rotation_z="84.574699" TextureVariation="0" Collision="true" Dynamic="false" LOD="60" BlipHash="0" BlipType="0"/>
+    <Object Hash="1117841450" Position_x="-2583.9275" Position_y="-1378.4215" Position_z="148.26691" Rotation_x="92.249802" Rotation_y="-33.824902" Rotation_z="88.674698" TextureVariation="0" Collision="true" Dynamic="false" LOD="60" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2583.9648" Position_y="-1381.0588" Position_z="148.22079" Rotation_x="0" Rotation_y="0" Rotation_z="-91.050201" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2583.9324" Position_y="-1379.2523" Position_z="148.25031" Rotation_x="0" Rotation_y="0" Rotation_z="-89.000198" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2583.8914" Position_y="-1377.4479" Position_z="148.27831" Rotation_x="0" Rotation_y="0" Rotation_z="-89.000198" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2583.783" Position_y="-1375.7078" Position_z="148.2829" Rotation_x="0" Rotation_y="0" Rotation_z="-92.075203" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-688710715" Position_x="-2569.7471" Position_y="-1387.3002" Position_z="145.9487" Rotation_x="-1.025" Rotation_y="-3.075" Rotation_z="79.924797" TextureVariation="0" Collision="true" Dynamic="false" LOD="150" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2571.4563" Position_y="-1384.9998" Position_z="148.25301" Rotation_x="-2.05" Rotation_y="0" Rotation_z="179.00031" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2571.5981" Position_y="-1386.8955" Position_z="148.2493" Rotation_x="-2.05" Rotation_y="0" Rotation_z="88" TextureVariation="0" Collision="true" Dynamic="true" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2571.7136" Position_y="-1388.7169" Position_z="148.25301" Rotation_x="-2.05" Rotation_y="0" Rotation_z="88" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1809418382" Position_x="-2571.8706" Position_y="-1389.1738" Position_z="148.21201" Rotation_x="-2.05" Rotation_y="4.0999999" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1646093491" Position_x="-2569.4329" Position_y="-1392.0691" Position_z="144.90781" Rotation_x="-5.125" Rotation_y="-3.075" Rotation_z="166.99879" TextureVariation="0" Collision="true" Dynamic="false" LOD="90" BlipHash="0" BlipType="0"/>
+    <Object Hash="1810518205" Position_x="-2579.2102" Position_y="-1378.0801" Position_z="148.3459" Rotation_x="0" Rotation_y="0" Rotation_z="88.999802" TextureVariation="0" Collision="true" Dynamic="false" LOD="85" BlipHash="0" BlipType="0"/>
+    <Object Hash="-730969831" Position_x="-2572.1104" Position_y="-1388.6772" Position_z="148.25301" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="50" BlipHash="0" BlipType="0"/>
+    <Object Hash="-274058460" Position_x="-2571.8154" Position_y="-1388.9836" Position_z="149.04221" Rotation_x="-3.075" Rotation_y="3.075" Rotation_z="25.999901" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="295982630" Position_x="-2573.9429" Position_y="-1384.0195" Position_z="150.71471" Rotation_x="10.25" Rotation_y="0" Rotation_z="93.999802" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="295982630" Position_x="-2573.5735" Position_y="-1388.746" Position_z="150.8981" Rotation_x="10.25" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="1811008981" Position_x="-2580.3901" Position_y="-1385.3657" Position_z="149.2012" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1811008981" Position_x="-2580.4407" Position_y="-1385.3635" Position_z="149.47411" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1811008981" Position_x="-2580.4431" Position_y="-1385.3634" Position_z="149.4791" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1626036013" Position_x="-2580.427" Position_y="-1385.3657" Position_z="150.4492" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="19" BlipHash="0" BlipType="0"/>
+    <Object Hash="-2139113605" Position_x="-2578.604" Position_y="-1385.7817" Position_z="153.741" Rotation_x="0" Rotation_y="0" Rotation_z="-109.9011" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="295982630" Position_x="-2578.5952" Position_y="-1385.7826" Position_z="151.5858" Rotation_x="15.3749" Rotation_y="2.05" Rotation_z="93.999802" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="-274058460" Position_x="-2568.2048" Position_y="-1391.2855" Position_z="145.8102" Rotation_x="-2.05" Rotation_y="-2.05" Rotation_z="64.124298" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2574.2712" Position_y="-1391.0309" Position_z="148.1819" Rotation_x="-2.05" Rotation_y="0" Rotation_z="-1.0002" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="295982630" Position_x="-2573.8086" Position_y="-1379.3518" Position_z="150.752" Rotation_x="10.2499" Rotation_y="0" Rotation_z="93.999802" TextureVariation="0" Collision="true" Dynamic="true" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="-2139113605" Position_x="-2578.2454" Position_y="-1378.0471" Position_z="153.7449" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="295982630" Position_x="-2578.219" Position_y="-1378.0443" Position_z="151.59061" Rotation_x="10.2499" Rotation_y="0" Rotation_z="178.9993" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="-965956337" Position_x="-2571.2739" Position_y="-1375.9589" Position_z="147.8788" Rotation_x="-5.125" Rotation_y="0" Rotation_z="124.9014" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-96182944" Position_x="-2568.9709" Position_y="-1382.0596" Position_z="146.9493" Rotation_x="9.2421999" Rotation_y="10.4219" Rotation_z="-82.766602" TextureVariation="0" Collision="true" Dynamic="true" LOD="200" BlipHash="0" BlipType="0"/>
+    <Object Hash="-96182944" Position_x="-2566.8254" Position_y="-1378.8784" Position_z="148.0759" Rotation_x="9.2421999" Rotation_y="10.4219" Rotation_z="-82.766602" TextureVariation="0" Collision="true" Dynamic="true" LOD="200" BlipHash="0" BlipType="0"/>
+    <Object Hash="-96182944" Position_x="-2569.2749" Position_y="-1379.5146" Position_z="147.5304" Rotation_x="9.2421999" Rotation_y="10.4219" Rotation_z="-82.766602" TextureVariation="0" Collision="true" Dynamic="false" LOD="200" BlipHash="0" BlipType="0"/>
+    <Object Hash="-751263659" Position_x="-2567.3677" Position_y="-1380.8711" Position_z="147.4937" Rotation_x="0" Rotation_y="0" Rotation_z="-118.4622" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="1647764180" Position_x="-2563.4751" Position_y="-1375.2455" Position_z="149.4771" Rotation_x="4.1459999" Rotation_y="-1.1885" Rotation_z="72.802002" TextureVariation="0" Collision="true" Dynamic="true" LOD="250" BlipHash="0" BlipType="0"/>
+    <Object Hash="1647764180" Position_x="-2585.553" Position_y="-1374.5044" Position_z="148.6162" Rotation_x="4.1459999" Rotation_y="-3.2385001" Rotation_z="-170.9973" TextureVariation="0" Collision="true" Dynamic="false" LOD="250" BlipHash="0" BlipType="0"/>
+    <Object Hash="1504437700" Position_x="-2585.1531" Position_y="-1372.5934" Position_z="148.3197" Rotation_x="0" Rotation_y="0" Rotation_z="112.8652" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1504437700" Position_x="-2564.4412" Position_y="-1378.9561" Position_z="148.36639" Rotation_x="0" Rotation_y="0" Rotation_z="112.8652" TextureVariation="0" Collision="true" Dynamic="false" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1647764180" Position_x="-2561.7205" Position_y="-1377.4594" Position_z="142.29269" Rotation_x="0.063900001" Rotation_y="-7.5061002" Rotation_z="96.333099" TextureVariation="0" Collision="true" Dynamic="false" LOD="250" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2562.7764" Position_y="-1375.8115" Position_z="149.3412" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-63.922001" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2561.4141" Position_y="-1380.2634" Position_z="147.91701" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-63.922001" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2563.8059" Position_y="-1381.5066" Position_z="147.7151" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-63.922001" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2565.8618" Position_y="-1383.1187" Position_z="147.2373" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="10.0781" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2567.1667" Position_y="-1385.4642" Position_z="146.6619" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="25.077999" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2567.5239" Position_y="-1381.3793" Position_z="147.3535" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-159.9225" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2564.252" Position_y="-1375.5149" Position_z="149.27921" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-82.922096" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="482937074" Position_x="-2562.2524" Position_y="-1376.193" Position_z="149.2762" Rotation_x="2.8122001" Rotation_y="19.5763" Rotation_z="-112.9615" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="482937074" Position_x="-2562.9575" Position_y="-1382.4597" Position_z="147.38609" Rotation_x="2.8122001" Rotation_y="19.5763" Rotation_z="-112.9615" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="482937074" Position_x="-2565.177" Position_y="-1379.5132" Position_z="148.1469" Rotation_x="2.8122001" Rotation_y="19.5763" Rotation_z="-112.9615" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="482937074" Position_x="-2568.2275" Position_y="-1378.5239" Position_z="147.9579" Rotation_x="2.8122001" Rotation_y="19.5763" Rotation_z="-112.9615" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="482937074" Position_x="-2569.7219" Position_y="-1382.1187" Position_z="146.79131" Rotation_x="2.8122001" Rotation_y="19.5763" Rotation_z="-112.9615" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="482937074" Position_x="-2570.5862" Position_y="-1389.9399" Position_z="145.1467" Rotation_x="2.8122001" Rotation_y="19.5763" Rotation_z="-112.9615" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-96182944" Position_x="-2565.0154" Position_y="-1385.2515" Position_z="146.6898" Rotation_x="0.88239998" Rotation_y="-4.9916" Rotation_z="108.8345" TextureVariation="0" Collision="true" Dynamic="false" LOD="200" BlipHash="0" BlipType="0"/>
+    <Object Hash="477619010" Position_x="-2564.3928" Position_y="-1385.5624" Position_z="146.99229" Rotation_x="4.2431002" Rotation_y="-2.8585" Rotation_z="-10.913" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="477619010" Position_x="-2567.4841" Position_y="-1376.7748" Position_z="148.4402" Rotation_x="4.2431002" Rotation_y="-2.8585" Rotation_z="-10.913" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="477619010" Position_x="-2550.0461" Position_y="-1377.7565" Position_z="149.09669" Rotation_x="4.2431002" Rotation_y="-2.8585" Rotation_z="-10.913" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1688905372" Position_x="-2576.584" Position_y="-1381.8442" Position_z="148.7411" Rotation_x="0" Rotation_y="0" Rotation_z="-7.1752" TextureVariation="0" Collision="true" Dynamic="false" LOD="31" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1039947691" Position_x="-2577.083" Position_y="-1383.9154" Position_z="148.2547" Rotation_x="0" Rotation_y="0" Rotation_z="86.999802" TextureVariation="0" Collision="true" Dynamic="true" LOD="50" BlipHash="0" BlipType="0"/>
+    <Object Hash="-565436466" Position_x="-2580.3762" Position_y="-1384.4908" Position_z="148.2137" Rotation_x="0" Rotation_y="0" Rotation_z="87.999702" TextureVariation="0" Collision="true" Dynamic="false" LOD="69" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1424658089" Position_x="-2575.7083" Position_y="-1381.1759" Position_z="150.336" Rotation_x="2.6069" Rotation_y="2.3029001" Rotation_z="-57.211899" TextureVariation="0" Collision="true" Dynamic="false" LOD="54" BlipHash="0" BlipType="0"/>
+    <Object Hash="-191845882" Position_x="-2580.4097" Position_y="-1382.8418" Position_z="148.2547" Rotation_x="0" Rotation_y="0" Rotation_z="87.999702" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="683151664" Position_x="-2580.4412" Position_y="-1384.0618" Position_z="149.3015" Rotation_x="2.05" Rotation_y="-3.075" Rotation_z="-103.0005" TextureVariation="0" Collision="true" Dynamic="false" LOD="30" BlipHash="0" BlipType="0"/>
+    <Object Hash="305390929" Position_x="-2579.9731" Position_y="-1380.5536" Position_z="149.2861" Rotation_x="0" Rotation_y="0" Rotation_z="-23.575001" TextureVariation="0" Collision="true" Dynamic="false" LOD="25" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1789356049" Position_x="-2580.2813" Position_y="-1379.9155" Position_z="149.9389" Rotation_x="0" Rotation_y="0" Rotation_z="86.999802" TextureVariation="0" Collision="true" Dynamic="false" LOD="46" BlipHash="0" BlipType="0"/>
+    <Object Hash="526843578" Position_x="-2580.4307" Position_y="-1380.6979" Position_z="149.28551" Rotation_x="0" Rotation_y="0" Rotation_z="35.974701" TextureVariation="0" Collision="true" Dynamic="false" LOD="40" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2573.6411" Position_y="-1384.9087" Position_z="148.25301" Rotation_x="-2.05" Rotation_y="0" Rotation_z="90.000198" TextureVariation="0" Collision="true" Dynamic="true" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2573.6277" Position_y="-1383.0837" Position_z="148.2355" Rotation_x="-2.05" Rotation_y="0" Rotation_z="90.000099" TextureVariation="0" Collision="true" Dynamic="true" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1993201915" Position_x="-2573.6399" Position_y="-1381.2606" Position_z="148.2308" Rotation_x="-2.05" Rotation_y="0" Rotation_z="88.000099" TextureVariation="0" Collision="true" Dynamic="true" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="833698475" Position_x="-2581.9683" Position_y="-1398.2123" Position_z="144.9585" Rotation_x="0" Rotation_y="0" Rotation_z="-53.999901" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="164939672" Position_x="-2564.084" Position_y="-1374.1409" Position_z="149.6935" Rotation_x="0" Rotation_y="0" Rotation_z="-29.0009" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="760174278" Position_x="-2549.7751" Position_y="-1392.9932" Position_z="145.3996" Rotation_x="0" Rotation_y="0" Rotation_z="64.999901" TextureVariation="0" Collision="true" Dynamic="true" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1060784210" Position_x="-2562.3271" Position_y="-1365.4832" Position_z="150.3752" Rotation_x="0" Rotation_y="0" Rotation_z="128.99969" TextureVariation="0" Collision="true" Dynamic="true" LOD="150" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1280509677" Position_x="-2588.4639" Position_y="-1373.3171" Position_z="148.4825" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-764239832" Position_x="-2551.7786" Position_y="-1387.0459" Position_z="146.65739" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="true" LOD="130" BlipHash="0" BlipType="0"/>
+    <Object Hash="581435710" Position_x="-2588.728" Position_y="-1368.0774" Position_z="148.9604" Rotation_x="-14.35" Rotation_y="0" Rotation_z="-135.0005" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="9982225" Position_x="-2561.4895" Position_y="-1383.3383" Position_z="147.06239" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="true" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1215220035" Position_x="-2558.3398" Position_y="-1386.5437" Position_z="146.0871" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="true" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="964002300" Position_x="-2560.0405" Position_y="-1377.6782" Position_z="148.6752" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="true" LOD="30" BlipHash="0" BlipType="0"/>
+    <Object Hash="1858411532" Position_x="-2547.7493" Position_y="-1392.1024" Position_z="145.5264" Rotation_x="0" Rotation_y="0" Rotation_z="44.999901" TextureVariation="0" Collision="true" Dynamic="true" LOD="70" BlipHash="0" BlipType="0"/>
+    <Object Hash="1580796567" Position_x="-2540.9788" Position_y="-1411.0182" Position_z="144.7729" Rotation_x="5.125" Rotation_y="-3.075" Rotation_z="74.999802" TextureVariation="0" Collision="true" Dynamic="true" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2580.5071" Position_y="-1367.8826" Position_z="149.20351" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2579.3464" Position_y="-1371.4677" Position_z="148.2249" Rotation_x="0" Rotation_y="0" Rotation_z="37.999901" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2576.6509" Position_y="-1365.8029" Position_z="149.45399" Rotation_x="0" Rotation_y="0" Rotation_z="72.999901" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2577.2551" Position_y="-1360.8793" Position_z="150.4528" Rotation_x="0" Rotation_y="0" Rotation_z="103.9997" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2568.4314" Position_y="-1366.9326" Position_z="150.0719" Rotation_x="0" Rotation_y="0" Rotation_z="141.9995" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2573.5972" Position_y="-1368.1517" Position_z="149.0549" Rotation_x="0" Rotation_y="0" Rotation_z="165.9993" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2584.8601" Position_y="-1370.2721" Position_z="148.77699" Rotation_x="0" Rotation_y="0" Rotation_z="-163.0006" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2588.041" Position_y="-1371.0608" Position_z="149.22121" Rotation_x="0" Rotation_y="0" Rotation_z="-139.0005" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2587.073" Position_y="-1367.0911" Position_z="149.6228" Rotation_x="0" Rotation_y="0" Rotation_z="-130.0004" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2589.6748" Position_y="-1363.8184" Position_z="150.631" Rotation_x="0" Rotation_y="0" Rotation_z="-92.000198" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2579.5449" Position_y="-1365.4113" Position_z="149.6577" Rotation_x="0" Rotation_y="0" Rotation_z="-92.000198" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1540392720" Position_x="-2567.448" Position_y="-1364.3749" Position_z="150.34869" Rotation_x="0" Rotation_y="0" Rotation_z="-29.000099" TextureVariation="0" Collision="true" Dynamic="true" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="-2052140572" Position_x="-2578.8345" Position_y="-1363.1599" Position_z="150.13541" Rotation_x="0" Rotation_y="0" Rotation_z="-71.999603" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1647764180" Position_x="-2550.2732" Position_y="-1361.4481" Position_z="152.6244" Rotation_x="0" Rotation_y="0" Rotation_z="125.126" TextureVariation="0" Collision="true" Dynamic="true" LOD="250" BlipHash="0" BlipType="0"/>
+    <Object Hash="1647764180" Position_x="-2593.4749" Position_y="-1369.0392" Position_z="149.836" Rotation_x="0" Rotation_y="0" Rotation_z="125.126" TextureVariation="0" Collision="true" Dynamic="true" LOD="250" BlipHash="0" BlipType="0"/>
+    <Object Hash="1647764180" Position_x="-2575.6628" Position_y="-1365.6102" Position_z="149.5025" Rotation_x="0" Rotation_y="0" Rotation_z="125.126" TextureVariation="0" Collision="true" Dynamic="true" LOD="250" BlipHash="0" BlipType="0"/>
+    <Object Hash="1647764180" Position_x="-2554.1611" Position_y="-1363.6868" Position_z="151.6366" Rotation_x="0" Rotation_y="0" Rotation_z="158.1257" TextureVariation="0" Collision="true" Dynamic="true" LOD="250" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2553.3674" Position_y="-1364.8903" Position_z="151.5414" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-63.922001" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2552.5586" Position_y="-1376.6427" Position_z="149.2437" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-63.922001" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2583.3499" Position_y="-1373.8235" Position_z="147.93311" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-49.922001" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2574.9199" Position_y="-1365.3715" Position_z="149.5605" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-22.9219" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2564.9504" Position_y="-1360.2173" Position_z="151.3679" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="-20.9219" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2565.1506" Position_y="-1361.1022" Position_z="151.0791" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="29.0781" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2564.5842" Position_y="-1361.7954" Position_z="150.8239" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="141.0777" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1033712895" Position_x="-2576.3274" Position_y="-1381.245" Position_z="148.2547" Rotation_x="0" Rotation_y="0" Rotation_z="34" TextureVariation="0" Collision="true" Dynamic="true" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="1784348138" Position_x="-2579.0886" Position_y="-1379.0439" Position_z="148.2547" Rotation_x="0" Rotation_y="0" Rotation_z="-3" TextureVariation="0" Collision="true" Dynamic="true" LOD="60" BlipHash="0" BlipType="0"/>
+    <Object Hash="1346417102" Position_x="-2576.272" Position_y="-1378.9537" Position_z="150.2715" Rotation_x="0" Rotation_y="0" Rotation_z="-1.0007" TextureVariation="0" Collision="true" Dynamic="true" LOD="10" BlipHash="0" BlipType="0"/>
+    <Object Hash="1077669576" Position_x="-2583.7871" Position_y="-1388.3773" Position_z="147.86951" Rotation_x="0" Rotation_y="0" Rotation_z="177.9492" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1909158680" Position_x="-2582.3193" Position_y="-1388.236" Position_z="147.9088" Rotation_x="0" Rotation_y="0" Rotation_z="81.899597" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1072062005" Position_x="-2576.9541" Position_y="-1410.0437" Position_z="144.80341" Rotation_x="0" Rotation_y="0" Rotation_z="170.9991" TextureVariation="0" Collision="true" Dynamic="true" LOD="60" BlipHash="0" BlipType="0"/>
+    <Object Hash="-85566397" Position_x="-2580.5483" Position_y="-1388.6785" Position_z="148.2605" Rotation_x="0" Rotation_y="0" Rotation_z="37.999901" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1624952600" Position_x="-2577.4561" Position_y="-1407.3339" Position_z="144.8354" Rotation_x="0" Rotation_y="0" Rotation_z="81.874702" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1461854168" Position_x="-2584.0583" Position_y="-1386.1884" Position_z="148.23599" Rotation_x="0" Rotation_y="0" Rotation_z="81.999901" TextureVariation="0" Collision="true" Dynamic="true" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1365942710" Position_x="-2580.3882" Position_y="-1381.3035" Position_z="148.2547" Rotation_x="0" Rotation_y="0" Rotation_z="-9" TextureVariation="0" Collision="true" Dynamic="true" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="1438352020" Position_x="-2578.5659" Position_y="-1379.0906" Position_z="149.0896" Rotation_x="0" Rotation_y="0" Rotation_z="15" TextureVariation="0" Collision="true" Dynamic="true" LOD="12" BlipHash="0" BlipType="0"/>
+    <Object Hash="1756196702" Position_x="-2580.3545" Position_y="-1380.3385" Position_z="149.3084" Rotation_x="0" Rotation_y="-1.025" Rotation_z="67.799797" TextureVariation="0" Collision="true" Dynamic="true" LOD="12" BlipHash="0" BlipType="0"/>
+    <Object Hash="-936443237" Position_x="-2577.9949" Position_y="-1379.1348" Position_z="148.2547" Rotation_x="0" Rotation_y="0" Rotation_z="-92.999802" TextureVariation="0" Collision="true" Dynamic="true" LOD="12" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1635539513" Position_x="-2579.2695" Position_y="-1378.9973" Position_z="149.93719" Rotation_x="0" Rotation_y="0" Rotation_z="7.9998002" TextureVariation="0" Collision="true" Dynamic="true" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="1041478907" Position_x="-2579.9417" Position_y="-1380.0573" Position_z="148.7039" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="true" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="393762183" Position_x="-2578.1028" Position_y="-1379.4884" Position_z="149.0834" Rotation_x="0" Rotation_y="0" Rotation_z="0.99980003" TextureVariation="0" Collision="true" Dynamic="true" LOD="10" BlipHash="0" BlipType="0"/>
+    <Object Hash="1291410892" Position_x="-2577.9836" Position_y="-1379.0728" Position_z="149.2066" Rotation_x="0" Rotation_y="0" Rotation_z="-15" TextureVariation="0" Collision="true" Dynamic="true" LOD="10" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1480541168" Position_x="-2580.4517" Position_y="-1384.9198" Position_z="149.2605" Rotation_x="0" Rotation_y="0" Rotation_z="-3" TextureVariation="0" Collision="true" Dynamic="true" LOD="10" BlipHash="0" BlipType="0"/>
+    <Object Hash="812105285" Position_x="-2580.5662" Position_y="-1384.3567" Position_z="149.2605" Rotation_x="0" Rotation_y="0" Rotation_z="88.999802" TextureVariation="0" Collision="true" Dynamic="true" LOD="10" BlipHash="0" BlipType="0"/>
+    <Object Hash="-817794457" Position_x="-2576.5405" Position_y="-1384.0812" Position_z="150.5984" Rotation_x="-1.025" Rotation_y="0" Rotation_z="87.999702" TextureVariation="0" Collision="true" Dynamic="true" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="-644524520" Position_x="-2578.3125" Position_y="-1379.3083" Position_z="149.0862" Rotation_x="0" Rotation_y="0" Rotation_z="-30.999901" TextureVariation="0" Collision="true" Dynamic="true" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="1932781590" Position_x="-2577.5591" Position_y="-1409.3766" Position_z="144.8327" Rotation_x="0" Rotation_y="0" Rotation_z="129.9996" TextureVariation="0" Collision="true" Dynamic="false" LOD="45" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1416777693" Position_x="-2578.6548" Position_y="-1379.355" Position_z="149.0896" Rotation_x="0" Rotation_y="0" Rotation_z="13.9998" TextureVariation="0" Collision="true" Dynamic="true" LOD="21" BlipHash="0" BlipType="0"/>
+    <Object Hash="2017187266" Position_x="-2578.3525" Position_y="-1380.1926" Position_z="148.2547" Rotation_x="0" Rotation_y="0" Rotation_z="135.0006" TextureVariation="0" Collision="true" Dynamic="false" LOD="45" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1488568115" Position_x="-2580.5518" Position_y="-1381.2775" Position_z="150.68961" Rotation_x="0" Rotation_y="0" Rotation_z="87.999802" TextureVariation="0" Collision="true" Dynamic="false" LOD="55" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1230458423" Position_x="-2576.7766" Position_y="-1384.248" Position_z="148.9166" Rotation_x="1.025" Rotation_y="1.025" Rotation_z="-178.00079" TextureVariation="0" Collision="true" Dynamic="false" LOD="70" BlipHash="0" BlipType="0"/>
+    <Object Hash="1014988944" Position_x="-2580.1294" Position_y="-1383.4647" Position_z="148.2547" Rotation_x="0" Rotation_y="0" Rotation_z="54.999901" TextureVariation="0" Collision="true" Dynamic="false" LOD="50" BlipHash="0" BlipType="0"/>
+    <Object Hash="1061623069" Position_x="-2576.8169" Position_y="-1379.1014" Position_z="148.25101" Rotation_x="-0.25839999" Rotation_y="-0.0352" Rotation_z="6.8351998" TextureVariation="0" Collision="true" Dynamic="false" LOD="90" BlipHash="0" BlipType="0"/>
+    <Object Hash="-689331657" Position_x="-2579.9229" Position_y="-1380.0731" Position_z="148.3488" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="20" BlipHash="0" BlipType="0"/>
+    <Object Hash="396880979" Position_x="-2578.127" Position_y="-1379.155" Position_z="149.08479" Rotation_x="0" Rotation_y="0" Rotation_z="61.999901" TextureVariation="0" Collision="true" Dynamic="false" LOD="20" BlipHash="0" BlipType="0"/>
+    <Object Hash="1564811379" Position_x="-2576.1104" Position_y="-1384.1539" Position_z="149.1006" Rotation_x="-1.025" Rotation_y="-1.025" Rotation_z="-92.999802" TextureVariation="0" Collision="true" Dynamic="false" LOD="44" BlipHash="0" BlipType="0"/>
+    <Object Hash="1335099064" Position_x="-2578.6025" Position_y="-1384.1129" Position_z="148.2547" Rotation_x="0" Rotation_y="-1.025" Rotation_z="1" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="-691004373" Position_x="-2577.2822" Position_y="-1403.7367" Position_z="144.7119" Rotation_x="-1.025" Rotation_y="5.125" Rotation_z="4" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="478342158" Position_x="-2577.0208" Position_y="-1405.5276" Position_z="145.4917" Rotation_x="0" Rotation_y="0" Rotation_z="30" TextureVariation="0" Collision="true" Dynamic="false" LOD="28" BlipHash="0" BlipType="0"/>
+    <Object Hash="551859273" Position_x="-2577.4185" Position_y="-1405.5939" Position_z="145.5284" Rotation_x="0" Rotation_y="0" Rotation_z="65.999901" TextureVariation="0" Collision="true" Dynamic="false" LOD="5" BlipHash="0" BlipType="0"/>
+    <Object Hash="1408547491" Position_x="-2577.1262" Position_y="-1405.8938" Position_z="145.50681" Rotation_x="-87.124702" Rotation_y="-3.075" Rotation_z="14.35" TextureVariation="0" Collision="true" Dynamic="false" LOD="22" BlipHash="0" BlipType="0"/>
+    <Object Hash="-890081360" Position_x="-2576.0176" Position_y="-1410.8885" Position_z="144.81281" Rotation_x="-90.198799" Rotation_y="0" Rotation_z="-179.00101" TextureVariation="0" Collision="true" Dynamic="false" LOD="50" BlipHash="0" BlipType="0"/>
+    <Object Hash="959905628" Position_x="-2574.8691" Position_y="-1411.3635" Position_z="144.696" Rotation_x="0" Rotation_y="2.05" Rotation_z="-1.025" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1473080720" Position_x="-2575.6062" Position_y="-1410.1533" Position_z="144.658" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1473080720" Position_x="-2576.7568" Position_y="-1410.1261" Position_z="144.658" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-325734132" Position_x="-2575.53" Position_y="-1384.0886" Position_z="149.26089" Rotation_x="0" Rotation_y="0" Rotation_z="93.124702" TextureVariation="0" Collision="true" Dynamic="false" LOD="10" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1920359424" Position_x="-2576.2749" Position_y="-1385.7032" Position_z="148.0726" Rotation_x="0" Rotation_y="3.075" Rotation_z="-4.0999999" TextureVariation="0" Collision="true" Dynamic="false" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="1452039029" Position_x="-2576.6963" Position_y="-1385.7267" Position_z="148.2375" Rotation_x="0" Rotation_y="0" Rotation_z="-58.999901" TextureVariation="0" Collision="true" Dynamic="false" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="1169513037" Position_x="-2579.2852" Position_y="-1388.5072" Position_z="148.27789" Rotation_x="0" Rotation_y="0" Rotation_z="4" TextureVariation="0" Collision="true" Dynamic="false" LOD="15" BlipHash="0" BlipType="0"/>
+    <Object Hash="-587276111" Position_x="-2572.0112" Position_y="-1385.6821" Position_z="148.2493" Rotation_x="0" Rotation_y="0" Rotation_z="15" TextureVariation="0" Collision="true" Dynamic="false" LOD="50" BlipHash="0" BlipType="0"/>
+    <Object Hash="1331762096" Position_x="-2572.3264" Position_y="-1385.0558" Position_z="148.5649" Rotation_x="0" Rotation_y="-4.0999999" Rotation_z="-91.624496" TextureVariation="0" Collision="true" Dynamic="false" LOD="60" BlipHash="0" BlipType="0"/>
+    <Object Hash="2060892540" Position_x="-2572.021" Position_y="-1385.405" Position_z="148.3905" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="25" BlipHash="0" BlipType="0"/>
+    <Object Hash="975747759" Position_x="-2571.9299" Position_y="-1385.6245" Position_z="148.3905" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="30" BlipHash="0" BlipType="0"/>
+    <Object Hash="97710627" Position_x="-2578.4443" Position_y="-1379.5032" Position_z="149.0869" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="30" BlipHash="0" BlipType="0"/>
+    <Object Hash="97710627" Position_x="-2577.7568" Position_y="-1384.8077" Position_z="148.7182" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="30" BlipHash="0" BlipType="0"/>
+    <Object Hash="436323736" Position_x="-2580.374" Position_y="-1384.4009" Position_z="149.2605" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="319326044" Position_x="-2575.7839" Position_y="-1410.4987" Position_z="144.82381" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="200" BlipHash="0" BlipType="0"/>
+    <Object Hash="1499675681" Position_x="-2559.521" Position_y="-1391.1454" Position_z="145.11411" Rotation_x="0" Rotation_y="-8.1999998" Rotation_z="88.999603" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="1856920994" Position_x="-2559.5066" Position_y="-1391.1943" Position_z="145.2085" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="45" BlipHash="0" BlipType="0"/>
+    <Object Hash="988533890" Position_x="-2559.4758" Position_y="-1391.1591" Position_z="145.1535" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="-717759843" Position_x="-2576.4807" Position_y="-1378.1954" Position_z="148.3434" Rotation_x="0" Rotation_y="0" Rotation_z="-176.00121" TextureVariation="0" Collision="true" Dynamic="false" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="-561839536" Position_x="-2576.4761" Position_y="-1377.5466" Position_z="148.92239" Rotation_x="0" Rotation_y="0" Rotation_z="0" TextureVariation="0" Collision="true" Dynamic="false" LOD="70" BlipHash="0" BlipType="0"/>
+    <Object Hash="61451054" Position_x="-2559.2266" Position_y="-1391.991" Position_z="145.01311" Rotation_x="5.125" Rotation_y="0" Rotation_z="-32" TextureVariation="0" Collision="true" Dynamic="false" LOD="12" BlipHash="0" BlipType="0"/>
+    <Object Hash="1186778098" Position_x="-2571.929" Position_y="-1374.1816" Position_z="148.1013" Rotation_x="-3.075" Rotation_y="-3.075" Rotation_z="97.674202" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1563788164" Position_x="-2576.4182" Position_y="-1378.0103" Position_z="148.24519" Rotation_x="0" Rotation_y="0" Rotation_z="179.99921" TextureVariation="0" Collision="true" Dynamic="false" LOD="120" BlipHash="0" BlipType="0"/>
+    <Object Hash="1621685195" Position_x="-2575.6201" Position_y="-1385.1718" Position_z="148.1897" Rotation_x="0" Rotation_y="1.025" Rotation_z="87.999702" TextureVariation="0" Collision="true" Dynamic="false" LOD="170" BlipHash="0" BlipType="0"/>
+    <Object Hash="-829566757" Position_x="-2581.4175" Position_y="-1383.571" Position_z="148.1895" Rotation_x="0" Rotation_y="0" Rotation_z="-91.024803" TextureVariation="0" Collision="true" Dynamic="false" LOD="400" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1567280712" Position_x="-2581.7749" Position_y="-1373.6914" Position_z="147.9339" Rotation_x="2.7377" Rotation_y="10.925" Rotation_z="29.0779" TextureVariation="0" Collision="true" Dynamic="false" LOD="100" BlipHash="0" BlipType="0"/>
+    <Object Hash="-751263659" Position_x="-2580.9895" Position_y="-1372.4951" Position_z="147.6572" Rotation_x="0" Rotation_y="0" Rotation_z="122.5143" TextureVariation="0" Collision="true" Dynamic="false" LOD="80" BlipHash="0" BlipType="0"/>
+    <Object Hash="-1304990031" Position_x="-2581.9631" Position_y="-1371.3442" Position_z="148.4782" Rotation_x="-13.0596" Rotation_y="-15.0719" Rotation_z="-142.3165" TextureVariation="0" Collision="true" Dynamic="false" LOD="75" BlipHash="0" BlipType="0"/>
+    <Object Hash="1504437700" Position_x="-2560.5251" Position_y="-1375.9935" Position_z="149.37621" Rotation_x="14.2532" Rotation_y="6.9166002" Rotation_z="-71.971199" TextureVariation="0" Collision="true" Dynamic="false" LOD="75" BlipHash="0" BlipType="0"/>
+    <Vehicle id="430596" Hash="-258491284" Position_x="-2570.7297" Position_y="-1401.3723" Position_z="144.90469" Rotation_x="0" Rotation_y="0" Rotation_z="0"/>
+    <DeletedObject Hash="1119807231" Position_x="-2577.8796" Position_y="-1385.4799" Position_z="149.78951"/>
+    <DeletedObject Hash="1579064826" Position_x="-2577.043" Position_y="-1385.5249" Position_z="149.78951"/>
+    <DeletedObject Hash="1119807231" Position_x="-2575.7971" Position_y="-1383.2869" Position_z="149.8427"/>
+    <DeletedObject Hash="1579064826" Position_x="-2575.7615" Position_y="-1382.4497" Position_z="149.8427"/>
+    <DeletedObject Hash="-652904703" Position_x="-2575.5564" Position_y="-1383.9844" Position_z="148.2476"/>
+    <DeletedObject Hash="-652904703" Position_x="-2575.5564" Position_y="-1383.9844" Position_z="148.2476"/>
+    <DeletedObject Hash="1579064826" Position_x="-2580.8467" Position_y="-1381.708" Position_z="149.93269"/>
+    <DeletedObject Hash="1119807231" Position_x="-2580.8088" Position_y="-1380.8469" Position_z="149.9258"/>
+    <DeletedObject Hash="1678119818" Position_x="-2577.103" Position_y="-1378.03" Position_z="148.3373"/>
+    <DeletedObject Hash="-841302822" Position_x="-2576.8787" Position_y="-1377.323" Position_z="148.3515"/>
+    <DeletedObject Hash="1786663937" Position_x="-2577.72" Position_y="-1378.2369" Position_z="148.3663"/>
+    <DeletedObject Hash="-1917537546" Position_x="-2578.1204" Position_y="-1378.2487" Position_z="149.3622"/>
+    <DeletedObject Hash="831224990" Position_x="-2578.6624" Position_y="-1377.9886" Position_z="148.3736"/>
+    <DeletedObject Hash="570671881" Position_x="-2579.4492" Position_y="-1377.9688" Position_z="148.3956"/>
+    <DeletedObject Hash="831224990" Position_x="-2581.9712" Position_y="-1376.8823" Position_z="148.3279"/>
+    <DeletedObject Hash="-841302822" Position_x="-2575.0964" Position_y="-1380.0022" Position_z="148.261"/>
+    <DeletedObject Hash="831224990" Position_x="-2575.542" Position_y="-1382.6663" Position_z="148.26311"/>
+    <DeletedObject Hash="-652904703" Position_x="-2575.5564" Position_y="-1383.9844" Position_z="148.2476"/>
+    <DeletedObject Hash="831224990" Position_x="-2575.0266" Position_y="-1388.4349" Position_z="148.24921"/>
+    <DeletedObject Hash="831224990" Position_x="-2578.0347" Position_y="-1385.8917" Position_z="148.23891"/>
+    <DeletedObject Hash="-841302822" Position_x="-2577.0024" Position_y="-1388.5085" Position_z="148.2552"/>
+    <DeletedObject Hash="-451383412" Position_x="-2580.3794" Position_y="-1388.387" Position_z="148.2628"/>
+    <DeletedObject Hash="570671881" Position_x="-2583.5908" Position_y="-1388.5596" Position_z="148.2307"/>
+    <DeletedObject Hash="1205623035" Position_x="-2583.8828" Position_y="-1386.8636" Position_z="148.2354"/>
+    <DeletedObject Hash="-832258854" Position_x="-2582.2974" Position_y="-1381.6968" Position_z="146.05431"/>
+    <DeletedObject Hash="-1755588493" Position_x="-2579.9709" Position_y="-1383.0104" Position_z="148.2637"/>
+    <DeletedObject Hash="1470019946" Position_x="-2580.4814" Position_y="-1384.0905" Position_z="148.2795"/>
+    <DeletedObject Hash="894074736" Position_x="-2580.4084" Position_y="-1384.8491" Position_z="148.2561"/>
+    <DeletedObject Hash="1488528792" Position_x="-2580.4504" Position_y="-1383.1141" Position_z="148.241"/>
+    <DeletedObject Hash="958431297" Position_x="-2580.4248" Position_y="-1383.3319" Position_z="148.694"/>
+    <DeletedObject Hash="-1347197368" Position_x="-2580.4387" Position_y="-1382.8353" Position_z="148.6926"/>
+    <DeletedObject Hash="1721921865" Position_x="-2580.3552" Position_y="-1382.6422" Position_z="148.69189"/>
+    <DeletedObject Hash="284580805" Position_x="-2580.4419" Position_y="-1383.2242" Position_z="148.80431"/>
+    <DeletedObject Hash="245507163" Position_x="-2580.5061" Position_y="-1383.5763" Position_z="148.7198"/>
+    <DeletedObject Hash="1470019946" Position_x="-2580.4814" Position_y="-1384.0905" Position_z="148.2795"/>
+    <DeletedObject Hash="-1396069527" Position_x="-2580.6926" Position_y="-1384.545" Position_z="149.26669"/>
+    <DeletedObject Hash="-451383412" Position_x="-2578.9329" Position_y="-1382.6957" Position_z="148.2547"/>
+    <DeletedObject Hash="1205623035" Position_x="-2578.9329" Position_y="-1382.6957" Position_z="148.2547"/>
+    <DeletedObject Hash="1786663937" Position_x="-2578.9329" Position_y="-1382.6957" Position_z="148.2547"/>
+    <DeletedObject Hash="570671881" Position_x="-2578.9329" Position_y="-1382.6957" Position_z="148.2547"/>
+    <DeletedObject Hash="-1917537546" Position_x="-2578.9329" Position_y="-1382.6957" Position_z="148.2547"/>
+    <DeletedObject Hash="1630624517" Position_x="-2576.2742" Position_y="-1381.4467" Position_z="148.2561"/>
+    <DeletedObject Hash="-2070665651" Position_x="-2579.8745" Position_y="-1383.5554" Position_z="148.85381"/>
+    <DeletedObject Hash="97884403" Position_x="-2580.5554" Position_y="-1383.2683" Position_z="150.2072"/>
+    <DeletedObject Hash="2002848967" Position_x="-2580.5603" Position_y="-1383.5273" Position_z="150.2072"/>
+    <DeletedObject Hash="97884403" Position_x="-2580.5554" Position_y="-1383.2683" Position_z="150.2072"/>
+    <DeletedObject Hash="631426674" Position_x="-2580.5347" Position_y="-1383.293" Position_z="149.9487"/>
+    <DeletedObject Hash="-1390073086" Position_x="-2580.5598" Position_y="-1383.5034" Position_z="150.0795"/>
+    <DeletedObject Hash="-1472515655" Position_x="-2580.4675" Position_y="-1383.0454" Position_z="149.0407"/>
+    <DeletedObject Hash="1577835233" Position_x="-2579.9209" Position_y="-1382.8425" Position_z="150.0386"/>
+    <DeletedObject Hash="-1689617623" Position_x="-2580.344" Position_y="-1379.9043" Position_z="149.8784"/>
+    <DeletedObject Hash="2096116417" Position_x="-2580.4282" Position_y="-1380.3434" Position_z="150.2081"/>
+    <DeletedObject Hash="-357997396" Position_x="-2580.4551" Position_y="-1380.1051" Position_z="150.2065"/>
+    <DeletedObject Hash="673350342" Position_x="-2580.3835" Position_y="-1379.6929" Position_z="150.2038"/>
+    <DeletedObject Hash="574032994" Position_x="-2580.425" Position_y="-1379.5094" Position_z="150.19431"/>
+    <DeletedObject Hash="-1821546199" Position_x="-2580.4036" Position_y="-1379.2164" Position_z="150.1655"/>
+    <DeletedObject Hash="2119789466" Position_x="-2580.1008" Position_y="-1379.1115" Position_z="150.20711"/>
+    <DeletedObject Hash="-2106341808" Position_x="-2580.2324" Position_y="-1378.9591" Position_z="150.20711"/>
+    <DeletedObject Hash="995368513" Position_x="-2579.8657" Position_y="-1378.9331" Position_z="150.2081"/>
+    <DeletedObject Hash="-407645735" Position_x="-2579.363" Position_y="-1379.0752" Position_z="150.2018"/>
+    <DeletedObject Hash="376980629" Position_x="-2580.2332" Position_y="-1379.6978" Position_z="149.1301"/>
+    <DeletedObject Hash="954963420" Position_x="-2580.2253" Position_y="-1380.4894" Position_z="149.29581"/>
+    <DeletedObject Hash="1710995061" Position_x="-2580.387" Position_y="-1380.5504" Position_z="149.2887"/>
+    <DeletedObject Hash="1721921865" Position_x="-2580.2764" Position_y="-1380.3987" Position_z="149.2915"/>
+    <DeletedObject Hash="-796023032" Position_x="-2578.3206" Position_y="-1379.2704" Position_z="148.2551"/>
+    <DeletedObject Hash="-100088714" Position_x="-2578.5774" Position_y="-1379.1129" Position_z="149.0864"/>
+    <DeletedObject Hash="91758217" Position_x="-2578.2354" Position_y="-1379.6665" Position_z="149.0806"/>
+    <DeletedObject Hash="1476208779" Position_x="-2577.9717" Position_y="-1379.6708" Position_z="149.08389"/>
+    <DeletedObject Hash="-974192123" Position_x="-2577.9456" Position_y="-1379.4156" Position_z="149.07269"/>
+    <DeletedObject Hash="1496522977" Position_x="-2578.0054" Position_y="-1379.0837" Position_z="149.15849"/>
+    <DeletedObject Hash="-890689546" Position_x="-2577.946" Position_y="-1379.4098" Position_z="149.0961"/>
+    <DeletedObject Hash="1635620646" Position_x="-2578.2119" Position_y="-1379.1473" Position_z="149.08279"/>
+    <DeletedObject Hash="-289651159" Position_x="-2577.8213" Position_y="-1379.2417" Position_z="148.2731"/>
+    <DeletedObject Hash="-1263941548" Position_x="-2578.2524" Position_y="-1379.3849" Position_z="148.28239"/>
+    <DeletedObject Hash="-1263941548" Position_x="-2578.2524" Position_y="-1379.3849" Position_z="148.28239"/>
+    <DeletedObject Hash="-496393005" Position_x="-2577.2493" Position_y="-1382.687" Position_z="148.25639"/>
+    <DeletedObject Hash="-2078891512" Position_x="-2578.3884" Position_y="-1382.0591" Position_z="151.3183"/>
+    <DeletedObject Hash="91875765" Position_x="-2578.3142" Position_y="-1379.2621" Position_z="151.2236"/>
+    <DeletedObject Hash="-1365936867" Position_x="-2580.4949" Position_y="-1388.6493" Position_z="148.239"/>
+    <DeletedObject Hash="-1365936867" Position_x="-2580.916" Position_y="-1388.7278" Position_z="148.2533"/>
+    <DeletedObject Hash="677043675" Position_x="-2577.6445" Position_y="-1384.6499" Position_z="148.71809"/>
+    <DeletedObject Hash="286526954" Position_x="-2577.9644" Position_y="-1384.8987" Position_z="148.2686"/>
+    <DeletedObject Hash="286526954" Position_x="-2577.9644" Position_y="-1384.8987" Position_z="148.2686"/>
+    <DeletedObject Hash="-1012195445" Position_x="-2578.0249" Position_y="-1384.9651" Position_z="148.7083"/>
+    <DeletedObject Hash="-595369584" Position_x="-2577.8892" Position_y="-1384.8345" Position_z="148.7083"/>
+    <DeletedObject Hash="-1694359093" Position_x="-2577.7673" Position_y="-1384.9141" Position_z="148.71069"/>
+    <DeletedObject Hash="127071631" Position_x="-2579.1431" Position_y="-1373.025" Position_z="147.8224"/>
+    <DeletedObject Hash="477619010" Position_x="-2568.71" Position_y="-1388.433" Position_z="145.9017"/>
+    <DeletedObject Hash="295723583" Position_x="-2579.9329" Position_y="-1380.6965" Position_z="149.2917"/>
+</Map>

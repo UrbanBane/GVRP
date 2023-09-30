@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="1087.148804" y="-1994.844849" z="-327.989014"/>
+	<streamingExtentsMax x="1893.145874" y="-1191.235352" z="472.512222"/>
+	<entitiesExtentsMin x="1487.148804" y="-1594.844849" z="72.010986"/>
+	<entitiesExtentsMax x="1493.145874" y="-1591.235352" z="72.512222"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_boxlrgtool01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1489.641846" y="-1594.844849" z="72.090599"/>
+			<rotation w="0.979461" x="0.000000" y="-0.000000" z="-0.201635"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_nbx_cratestack03x_96</archetypeName>
+			<flags value="1572897"/>
+			<position x="1488.979492" y="-1592.656982" z="72.062149"/>
+			<rotation w="0.951388" x="-0.000000" y="0.000000" z="0.307995"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>s_tentcaravanpartscrate</archetypeName>
+			<flags value="1572897"/>
+			<position x="1489.832397" y="-1594.245483" z="72.087784"/>
+			<rotation w="0.653727" x="-0.000000" y="0.000000" z="0.756730"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_gun_crateset03x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1489.069702" y="-1594.427124" z="72.086800"/>
+			<rotation w="0.861792" x="-0.000000" y="0.000000" z="0.507262"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_toolbox01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1487.148804" y="-1592.027710" z="72.512222"/>
+			<rotation w="0.396709" x="0.031068" y="-0.000685" z="-0.917418"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>s_tentcaravanpartspoles</archetypeName>
+			<flags value="1572897"/>
+			<position x="1488.218506" y="-1594.510254" z="72.084595"/>
+			<rotation w="0.959226" x="0.000000" y="-0.000000" z="-0.282639"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>s_tentcaravanpartsa</archetypeName>
+			<flags value="1572897"/>
+			<position x="1491.125366" y="-1592.875122" z="72.089119"/>
+			<rotation w="0.999895" x="-0.000000" y="0.000000" z="0.014469"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_railroadtiepile01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1487.784668" y="-1591.235352" z="72.010986"/>
+			<rotation w="0.917968" x="0.000676" y="0.033435" z="0.395243"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_railroadtrackpile01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1493.145874" y="-1592.498291" z="72.042763"/>
+			<rotation w="0.999641" x="0.000000" y="-0.000000" z="-0.026779"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

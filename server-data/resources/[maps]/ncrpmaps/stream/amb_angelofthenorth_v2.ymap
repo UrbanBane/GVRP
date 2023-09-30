@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="1534.987183" y="1549.335815" z="-131.156281"/>
+	<streamingExtentsMax x="2335.135376" y="2349.605713" z="668.853210"/>
+	<entitiesExtentsMin x="1934.987183" y="1949.335815" z="268.843719"/>
+	<entitiesExtentsMax x="1935.135376" y="1949.605713" z="268.853210"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_taxidermyvulture04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1935.135376" y="1949.605713" z="268.853210"/>
+			<rotation w="0.136819" x="-0.054124" y="-0.035715" z="-0.988471"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="100"/>
+			<childlodDist value="100"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_cougar_01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1934.987183" y="1949.335815" z="268.843719"/>
+			<rotation w="0.170975" x="0.015625" y="0.001826" z="0.985150"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="100"/>
+			<childlodDist value="100"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

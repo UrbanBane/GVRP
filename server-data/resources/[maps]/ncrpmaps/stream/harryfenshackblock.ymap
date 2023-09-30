@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="987.308716" y="-2483.178467" z="-348.835400"/>
+	<streamingExtentsMax x="1790.458984" y="-1675.776611" z="452.440369"/>
+	<entitiesExtentsMin x="1387.308716" y="-2083.178467" z="51.164600"/>
+	<entitiesExtentsMax x="1390.458984" y="-2075.776611" z="52.440369"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>mp005_p_mp_covercomb_hm_hdr</archetypeName>
+			<flags value="1572897"/>
+			<position x="1387.308716" y="-2076.751465" z="51.229038"/>
+			<rotation w="0.160292" x="-0.000000" y="0.000000" z="0.987070"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp005_p_mp_cover_sh_lak</archetypeName>
+			<flags value="1572897"/>
+			<position x="1390.458984" y="-2075.776611" z="51.164600"/>
+			<rotation w="0.176869" x="0.000000" y="-0.000000" z="-0.984234"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

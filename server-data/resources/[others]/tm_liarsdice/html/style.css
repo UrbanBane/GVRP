@@ -1,0 +1,283 @@
+@font-face {
+    font-family: "Hapna";
+    src: url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.woff2") format("woff2"),
+         url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.woff") format("woff"),
+         url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.ttf") format("truetype");
+}
+@font-face {
+    font-family: "RDRLino";
+    src: url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.woff2") format("woff2"),
+         url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.woff") format("woff"),
+         url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.ttf") format("truetype");
+}
+
+body {
+    overflow: hidden;
+}
+
+#liarsdice-wrapper {
+    height: 100vh;
+    width: 100vw;
+    color: #fff;
+    text-shadow: 2px 2px 0px #000000;
+    font-size: 20px;
+    font-family: "Hapna";
+    font-weight: 540;
+    display: none;
+}
+
+#players {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 4%;
+    bottom: 4%;
+    width: 40%;
+    z-index: 9999;
+}
+
+#dice-bet {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 4.22%;
+    top: 4%;
+    width: 240px;
+    z-index: 9999;
+    font-size: 32px;
+    line-height: 64px;
+    display: none;
+}
+
+#dice-bet div {
+    display: inline;
+    margin: 4px; 
+}
+
+#bet-amount {
+    font-size: 48px;
+    vertical-align: bottom;
+}
+
+#bet-face {
+    width: 32px;
+    padding-top: 6px;
+}
+
+#bet-face img, .currentbetdice {
+    filter: drop-shadow(2px 2px 0px #000);
+}
+
+#bet-face, #bet-times, #bet-amount {
+    float: right;
+}
+
+#players .player {
+    margin-top: 48px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+#players ul li {
+    float: left;
+    margin: 3px;
+    margin-top:0;
+}
+
+#players .player ul li img {
+    height: 42px;
+    width: 42px;
+    margin-right: 4px;
+}
+
+.playerinfo {
+    clear:both;  
+    padding-left: 3px;
+    padding-right: 6px;
+    font-weight: 600;
+}
+
+.player-pic {
+    position: absolute;
+    left: 0;
+    height: 60px;
+    width:24px;
+    color: #aaa;
+    border-right: 3px solid #aaa;
+    box-shadow:#000000 2px 0px 0px;
+    text-align: right;
+    padding-right: 6px;
+    line-height: 24px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.player-pic.playerstate-move\:makenewbet, 
+.player-pic.playerstate-waiting-for-turn-last-player, 
+.player-pic.playerstate-determinefirstplayer, 
+.player-pic.playerstate-start_dice,
+.player-pic.playerstate-revealdices,
+.player-pic.playerstate-showdown  {
+    height: 96px !important;
+}
+
+.player-pic.active.yourself {    
+    color: #d13a4fff;
+    animation: blinker 1s linear infinite;
+}
+
+.redtext {
+    color: #d13a4fff;
+    font-weight: 650;
+}
+
+.player-pic.active.otherplayer {
+    color: #fff;
+    border-right: 3px solid #fff;
+}
+.player-pic.out {
+    opacity: 0.35;
+}
+
+@keyframes blinker {
+    50% {
+        border-right: 3px solid #d13a4fff;
+    }
+}
+
+#dice-container{
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    z-index: 9999999;
+    padding: 10px;
+    transform: translate(-50%,-50%);
+    display: none;
+}
+
+#dice-container .inner {
+    display: flex;
+    justify-content: center;
+}
+
+.start_dice {
+    height:64px;
+    z-index: 9999999;
+    padding: 4px;
+    padding-left:0;
+    position: relative;
+}
+
+.dice {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    margin: 3px;
+    transform-style: preserve-3d;
+    transition: transform .65s;   
+}
+
+.inner .dice {
+    position: relative;
+    margin: 6px;
+    transition: transform .35s;   
+}
+  
+.dicelist {
+    height: 40px;
+    margin-top: 4px;
+    margin-left: 0;
+}
+
+.side {
+    position: absolute;
+    border: 0;
+    border-radius: 4px;
+    width: 59px;
+    height: 59px;
+}
+  
+.side:nth-child(1) {
+    transform: translateZ(29px); 
+    background: url(img/dices/dices_1/dice_1.png) center center no-repeat;
+}
+
+.side:nth-child(5) {
+    transform: rotateX(-90deg) translateZ(29px); 
+    background: url(img/dices/dices_1/dice_2.png) center center no-repeat; 
+}
+  
+.side:nth-child(6) {
+    transform: rotateY(90deg) translateZ(29px); 
+    background: url(img/dices/dices_1/dice_3.png) center center no-repeat;
+}
+
+.side:nth-child(3) {
+    transform: rotateY(-90deg) translateZ(30px); 
+    background: url(img/dices/dices_1/dice_4.png) center center no-repeat; 
+}
+ 
+.side:nth-child(4) {
+    transform: rotateX(90deg) translateZ(30px); 
+    background: url(img/dices/dices_1/dice_5.png) center center no-repeat;
+}
+
+.side:nth-child(2) {
+    transform: rotateY(-180deg) translateZ(30px);
+    background: url(img/dices/dices_1/dice_6.png) center center no-repeat;
+}
+  
+.show-1 {
+    transform: rotateX(720deg) rotateZ(-720deg) rotateY(-720deg); 
+}
+
+.show-2 {
+    transform: rotateX(450deg) rotateZ(-360deg) rotateY(720deg); 
+}
+.show-3 {
+    transform: rotateY(-450deg) rotateZ(-1440deg) rotateX(0deg); 
+}
+  
+.show-4 {
+    transform: rotateY(810deg) rotateZ(720deg) rotateX(-1080deg); 
+}
+  
+.show-5 {
+    transform: rotateX(-810deg) rotateZ(-1080deg) rotateY(1080deg); 
+}
+  
+.show-6 {
+    transform: rotateX(-900deg) rotateZ(1080deg); 
+}
+
+
+#bet_dice.show-1 {
+    transform: rotateX(0deg) rotateZ(0deg) rotateY(0deg); 
+}
+
+#bet_dice.show-2 {
+    transform: rotateX(90deg) rotateZ(0deg) rotateY(0deg); 
+}
+#bet_dice.show-3 {
+    transform: rotateY(-90deg) rotateZ(0deg) rotateX(0deg); 
+}
+  
+#bet_dice.show-4 {
+    transform: rotateY(90deg) rotateZ(0deg) rotateX(0deg); 
+}
+  
+#bet_dice.show-5 {
+    transform: rotateX(-90deg) rotateZ(0deg) rotateY(0deg); 
+}
+  
+#bet_dice.show-6 {
+    transform: rotateX(-180deg) rotateZ(0deg); 
+}
+
+li.name  {
+    font-family: "RDRLino";
+    font-size: 30px;
+    line-height: 20px;
+    width: 100%;
+    margin-top: 8px !important;
+}

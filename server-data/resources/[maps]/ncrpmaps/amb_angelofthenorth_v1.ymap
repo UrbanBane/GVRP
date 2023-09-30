@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="1541.279297" y="1555.327271" z="-135.266998"/>
+	<streamingExtentsMax x="2341.327393" y="2355.429199" z="665.071289"/>
+	<entitiesExtentsMin x="1941.279297" y="1955.327271" z="264.733002"/>
+	<entitiesExtentsMax x="1941.327393" y="1955.429199" z="265.071289"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_cougar_01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1941.327393" y="1955.429199" z="264.972412"/>
+			<rotation w="0.033062" x="0.000000" y="0.000000" z="0.999453"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp007_p_taxidermy_base03x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1941.279297" y="1955.422852" z="264.733002"/>
+			<rotation w="0.030519" x="-0.000000" y="0.000000" z="0.999534"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_taxidermyvulture04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1941.315430" y="1955.327271" z="265.071289"/>
+			<rotation w="0.237099" x="-0.108303" y="-0.287253" z="-0.921705"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

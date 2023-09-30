@@ -1,0 +1,311 @@
+﻿{
+  "defaultlang": "En",
+  "KeyToStart": "0xD9D0E1C0",
+  "KeyToPick": "0xC7B5340A",
+
+  "PostOffices": [
+    {
+      "Name": "Valentine Delivery Office",
+      "BlipIcon": -243818172,
+      "EnterOffice": [ -179.47, 648.19, 113.58, 2.0 ],
+      "NPCOffice": [ -177.93, 646.97, 112.58, 52.64 ],
+      "VehicleSpawn": [ -195.84, 639.74, 113.22, 328.75 ],
+      "NPCModel": "A_M_M_MIDDLESDTOWNFOLK_01",
+      "JobZones": [
+        {
+          "Name": "the blue house",
+          "Pos": [ -262.92, 762.13, 118.15 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Sheriff's office",
+          "Pos": [ -274.53, 798.58, 119.25 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the bank",
+          "Pos": [ -304.94, 775.13, 118.7 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the stable",
+          "Pos": [ -366.58, 788.99, 116.17 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Saints Hotel",
+          "Pos": [ -328.76, 773.77, 117.44 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the general store",
+          "Pos": [ -324.1, 801.55, 117.88 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Doctor's office",
+          "Pos": [ -288.03, 801.71, 119.37 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "Smithfield's Saloon",
+          "Pos": [ -311.58, 805.84, 118.98 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        }
+      ]
+    },
+    {
+      "Name": "Saint Denis Delivery Office",
+      "BlipIcon": -243818172,
+      "EnterOffice": [ 2754.14, -1395.37, 46.21, 2.0 ], 
+      "NPCOffice": [ 2751.61, -1396.01, 45.0, 294.45 ], 
+      "VehicleSpawn": [ 2748.8, -1406.3, 46.1, 120.21 ],
+      "NPCModel": "A_M_M_MIDDLESDTOWNFOLK_01",
+      "JobZones": [
+        {
+          "Name": "the gunsmith's",
+          "Pos": [ 2719.1, -1285.09, 49.63 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the barbershop",
+          "Pos": [ 2656.91, -1179.12, 53.28 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the tailor",
+          "Pos": [ 2551.37, -1169.51, 53.68 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the stable",
+          "Pos": [ 2509.31, -1460.54, 46.32 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the general store",
+          "Pos": [ 2827.11, -1316.9, 46.76 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Doctor's Surgery",
+          "Pos": [ 2719.31, -1229.38, 50.37 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the butcher",
+          "Pos": [ 2832.36, -1227.74, 47.66 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "The Bastille Saloon",
+          "Pos": [ 2632.93, -1225.34, 53.38 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        }
+      ]
+    },
+	  {
+      "Name": "Strawberry Delivery Office",
+      "BlipIcon": -243818172,
+      "EnterOffice": [ -1751.84, -386.94, 156.49, 2.0 ],
+      "NPCOffice": [ -1753.72, -385.45, 155.49, 240.91 ],
+      "VehicleSpawn": [ -1752.8, -407.96, 155.38, 341.0 ],
+      "NPCModel": "A_M_M_MIDDLESDTOWNFOLK_01",
+      "JobZones": [
+        {
+          "Name": "the jail",
+          "Pos": [ -1812.74, -353.72, 164.65 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the carpenter",
+          "Pos": [ -1814.58, -423.24, 160.0 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Hunter's House",
+          "Pos": [ -1772.29, -431.75, 155.23 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the stable",
+          "Pos": [ -1818.74, -563.32, 156.06 ],
+          "Money": [ 1, 2 ],
+          "Xp": 60
+        },
+        {
+          "Name": "the general store",
+          "Pos": [ -1794.93, -384.95, 159.37 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+
+        {
+          "Name": "the Doctor's office",
+          "Pos": [ -1806.21, -431.72, 158.83 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the butcher",
+          "Pos": [ -1750.24, -392.45, 156.31 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Welcome Center",
+          "Pos": [ -1812.6, -372.02, 162.9 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        }
+      ]
+    },
+	  {
+      "Name": "Rhodes Office",
+      "BlipIcon": -243818172,
+      "EnterOffice": [ 1231.6, -1277.35, 76.02, 2.0 ],
+      "NPCOffice": [ 1229.71, -1279.27, 75.02, 318.32 ],
+      "VehicleSpawn": [ 1215.48, -1282.48, 75.62, 311.42 ],
+      "NPCModel": "A_M_M_MIDDLESDTOWNFOLK_01",
+      "JobZones": [
+        {
+          "Name": "the Church",
+          "Pos": [ 1290.64, -1232.24, 81.58 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Sheriff's office",
+          "Pos": [ 1360.48, -1298.34, 76.77 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the bank",
+          "Pos": [ 1291.99, -1297.14, 76.07 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the pretty house",
+          "Pos": [ 1431.55, -1371.26, 80.76 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the gunsmith's",
+          "Pos": [ 1328.11, -1325.86, 76.94 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the general store",
+          "Pos": [ 1324.77, -1291.74, 76.02 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Doctor's office",
+          "Pos": [ 1369.34, -1310.74, 76.97 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the camp",
+          "Pos": [ 1510.53, -1479.32, 71.16 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "Gray Woolen Mill",
+          "Pos": [ 1429.27, -1277.89, 77.07 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        },
+        {
+          "Name": "Rhodes Parlor House",
+          "Pos": [ 1338.18, -1378.81, 79.5 ],
+          "Money": [ 2.0, 5.0 ],
+          "Xp": 50
+        }
+      ]
+    },
+    {
+      "Name": "Blackwater Delivery Office",
+      "BlipIcon": -243818172,
+      "EnterOffice": [ -877.46, -1343.87, 43.29, 2.0 ], 
+      "NPCOffice": [ -877.13, -1341.74, 42.29, 179.62 ], 
+      "VehicleSpawn": [ -885.08, -1341.83, 43.31, 174.04 ],
+      "NPCModel": "A_M_M_MIDDLESDTOWNFOLK_01",
+      "JobZones": [
+        {
+          "Name": "the Imperial Theatre",
+          "Pos": [ -792.08, -1366.13, 43.8 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the barbershop",
+          "Pos": [ -809.19, -1366.92, 43.69 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the tailor",
+          "Pos": [ -756.93, -1290.79, 43.67 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the candy store",
+          "Pos": [ -808.87, -1304.53, 43.67 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the general store",
+          "Pos": [ -791.45, -1322.52, 43.64 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the Sheriff's office",
+          "Pos": [ -756.1, -1269.3, 44.03 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the butcher",
+          "Pos": [ -751.96, -1287.55, 43.29 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        },
+        {
+          "Name": "the photography studio",
+          "Pos": [ -808.12, -1374.2, 43.67 ],
+          "Money": [ 1, 2 ],
+          "Xp": 50
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="YerPalPandora@NCRP"/>
+	<Vehicle Hash="-1988548788" Position_x="1015.1824951172" Position_y="-6726.9604492188" Position_z="69.349624633789" Rotation_x="4.1122622489929" Rotation_y="0.44460037350654" Rotation_z="-47.280601501465" Collision="true" Visible="true"/>
+	<Vehicle Hash="-1988548788" Position_x="1005.5276489258" Position_y="-6723.720703125" Position_z="69.338516235352" Rotation_x="7.6260046958923" Rotation_y="0.26586958765983" Rotation_z="18.697309494019" Collision="true" Visible="true"/>
+</Map>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="1019.231445" y="-128.320404" z="-311.282562"/>
+	<streamingExtentsMax x="1831.708374" y="787.497345" z="490.384628"/>
+	<entitiesExtentsMin x="1419.231445" y="271.679596" z="88.717438"/>
+	<entitiesExtentsMax x="1431.708374" y="387.497345" z="90.384628"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_tarp04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1419.231445" y="387.497345" z="88.717438"/>
+			<rotation w="0.998994" x="0.019512" y="0.029234" z="-0.027850"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_lantern05x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1431.708374" y="271.679596" z="90.384628"/>
+			<rotation w="0.025988" x="0.003191" y="-0.121827" z="0.992206"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

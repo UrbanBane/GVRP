@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <audio src="audio/roll.mp3" id="dice-audio"></audio>
+        <audio src="audio/cup1.mp3" id="cup1-audio"></audio>
+        <audio src="audio/cup2.mp3" id="cup2-audio"></audio>
+        <div id="liarsdice-wrapper">
+            <div id="players"></div>
+            <div id="player-hand">
+                <div id="dice-container">
+                    <div class="inner"></div>
+                </div>
+                <div id="dice-bet" class="redtext">
+                    <div id="bet-face"></div>
+                    <div id="bet-times">x</div>
+                    <div id="bet-amount">1</div>
+                </div>
+            </div>  
+        </div>
+        <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+        <script src="./main.js" type="text/javascript"></script>
+    </body>
+</html>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="2293.495117" y="-1671.475342" z="-332.677422"/>
+	<streamingExtentsMax x="3096.129395" y="-870.207397" z="467.329437"/>
+	<entitiesExtentsMin x="2693.495117" y="-1271.475342" z="67.322578"/>
+	<entitiesExtentsMax x="2696.129395" y="-1270.207397" z="67.329437"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_woodramp01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="2693.495117" y="-1271.475342" z="67.329437"/>
+			<rotation w="0.840301" x="-0.000000" y="-0.000000" z="0.542119"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="150"/>
+			<childlodDist value="150"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_woodramp01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="2696.129395" y="-1270.207397" z="67.322578"/>
+			<rotation w="0.845000" x="-0.000000" y="-0.000000" z="0.534766"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="150"/>
+			<childlodDist value="150"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

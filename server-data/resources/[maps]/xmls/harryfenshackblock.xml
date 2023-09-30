@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="YerPalPandora@NCRP"/>
+	<Object Hash="1278502587" Position_x="1388.8389892578" Position_y="-2082.3442382813" Position_z="51.640209197998" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-161.57588195801" Collision="true" Visible="true"/>
+	<Object Hash="452073398" Position_x="1388.7943115234" Position_y="-2083.1784667969" Position_z="52.440368652344" Rotation_x="-0.50019657611846" Rotation_y="88.999473571777" Rotation_z="-65.314193725586" Collision="true" Visible="true"/>
+</Map>

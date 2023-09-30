@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="2131.811279" y="-1686.005981" z="-349.872826"/>
+	<streamingExtentsMax x="2942.355957" y="-872.125488" z="450.301636"/>
+	<entitiesExtentsMin x="2531.811279" y="-1286.005981" z="50.127174"/>
+	<entitiesExtentsMax x="2542.355957" y="-1272.125488" z="50.301636"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_vaudevilleoddfellows_frm</archetypeName>
+			<flags value="1572897"/>
+			<position x="2542.355957" y="-1272.125488" z="50.281834"/>
+			<rotation w="0.004284" x="0.000022" y="0.005236" z="-0.999977"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_vaudeville_fire_frm</archetypeName>
+			<flags value="1572897"/>
+			<position x="2531.902100" y="-1286.005981" z="50.127174"/>
+			<rotation w="0.709601" x="-0.000000" y="0.000000" z="0.704604"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_vaudevillecancan_frm</archetypeName>
+			<flags value="1572897"/>
+			<position x="2531.908691" y="-1282.469482" z="50.142368"/>
+			<rotation w="0.707909" x="-0.000000" y="0.000000" z="0.706304"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_vaudevilleband_frm</archetypeName>
+			<flags value="1572897"/>
+			<position x="2531.811279" y="-1278.971558" z="50.270317"/>
+			<rotation w="0.708410" x="0.001855" y="-0.001848" z="0.705796"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_vaudevillemagician_frm</archetypeName>
+			<flags value="1572897"/>
+			<position x="2538.816895" y="-1272.153931" z="50.301636"/>
+			<rotation w="0.001432" x="0.000008" y="-0.005236" z="0.999985"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_vaudevillesdance_frm</archetypeName>
+			<flags value="1572897"/>
+			<position x="2533.956787" y="-1274.373535" z="50.236816"/>
+			<rotation w="0.377754" x="-0.000989" y="0.002424" z="0.925902"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

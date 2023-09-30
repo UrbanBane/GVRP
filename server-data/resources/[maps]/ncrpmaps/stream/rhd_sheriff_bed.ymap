@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="963.896118" y="-1699.329712" z="-322.878448"/>
+	<streamingExtentsMax x="1764.094482" y="-898.665527" z="477.304604"/>
+	<entitiesExtentsMin x="1363.896118" y="-1299.329712" z="77.121552"/>
+	<entitiesExtentsMax x="1364.094482" y="-1298.665527" z="77.304604"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_amb_mattress04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1363.896118" y="-1299.329712" z="77.121552"/>
+			<rotation w="0.984137" x="-0.000000" y="0.000000" z="0.177409"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_mattress08x</archetypeName>
+			<flags value="1572897"/>
+			<position x="1354.965332" y="-1301.161743" z="77.347824"/>
+			<rotation w="0.163859" x="0.000000" y="-0.000000" z="-0.986484"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

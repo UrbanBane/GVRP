@@ -1,0 +1,73 @@
+{
+  "defaultlang": "En",
+
+  "ItemsToUse": [
+    {
+      "Name": "whisky",
+      "Label": "Whisky",
+      "CoreType": -1, // -1 To disable core
+      "ObjectModel": "p_bottlejd01x",
+      "propId": "p_bottleJD01x_ph_r_hand", // You need iteminteractioninfo.meta file
+      "itemInteraction": "DRINK_BOTTLE@Bottle_Cylinder_D1-3_H30-5_Neck_A13_B2-5_TABLE_HOLD", // You need iteminteractioninfo.meta file
+      "AnimFxType": "PlayerDrunk01",
+      "DrunkTime": 120,
+      "Damage": -1
+    },
+    {
+      "Name": "tropicalPunchMoonshine",
+      "Label": "Tropical Peach Moonshine",
+      "CoreType": 0, // -1 To disable core
+      "ObjectModel": "p_bottlejd01x",
+      "propId": "p_bottlejd01x_ph_r_hand", // You need iteminteractioninfo.meta file
+      "itemInteraction": "DRINK_BOTTLE@Bottle_Cylinder_D1-3_H30-5_Neck_A13_B2-5_TABLE_HOLD", // You need iteminteractioninfo.meta file
+      "AnimFxType": "PlayerDrunk01",
+      "DrunkTime": 240,
+      "Damage": -1
+    },
+    {
+      "Name": "appleCrumbMoonshine",
+      "Label": "Minty Berry Moonshine",
+      "CoreType": 0, // -1 To disable core
+      "ObjectModel": "p_bottlejd01x",
+      "propId": "p_bottlejd01x_ph_r_hand", // You need iteminteractioninfo.meta file
+      "itemInteraction": "DRINK_BOTTLE@Bottle_Cylinder_D1-3_H30-5_Neck_A13_B2-5_TABLE_HOLD", // You need iteminteractioninfo.meta file
+      "AnimFxType": "PlayerDrunk01",
+      "DrunkTime": 240,
+      "Damage": -1
+    },
+    {
+      "Name": "wildCiderMoonshine",
+      "Label": "Pear & Berry Moonshine",
+      "CoreType": 0, // -1 To disable core
+      "ObjectModel": "p_bottlejd01x",
+      "propId": "p_bottlejd01x_ph_r_hand", // You need iteminteractioninfo.meta file
+      "itemInteraction": "DRINK_BOTTLE@Bottle_Cylinder_D1-3_H30-5_Neck_A13_B2-5_TABLE_HOLD", // You need iteminteractioninfo.meta file
+      "AnimFxType": "PlayerDrunk01",
+      "DrunkTime": 240,
+      "Damage": -1
+    },
+    {
+      "Name": "appleBerryMoonshine",
+      "Label": "Apple & Huckleberry Moonshine",
+      "CoreType": 0, // -1 To disable core
+      "ObjectModel": "p_bottlejd01x",
+      "propId": "p_bottlejd01x_ph_r_hand", // You need iteminteractioninfo.meta file
+      "itemInteraction": "DRINK_BOTTLE@Bottle_Cylinder_D1-3_H30-5_Neck_A13_B2-5_TABLE_HOLD", // You need iteminteractioninfo.meta file
+      "AnimFxType": "PlayerDrunk01",
+      "DrunkTime": 240,
+      "Damage": -1
+      
+    },
+    {
+      "Name": "beer",
+      "Label": "Beer",
+      "CoreType": -1, // -1 To disable core
+      "ObjectModel": "p_bottlebeer01a",
+      "propId": "p_bottleBeer01x_ph_r_hand", // You need iteminteractioninfo.meta file
+      "itemInteraction": "DRINK_BOTTLE@Bottle_Cylinder_D1-55_H18_Neck_A8_B1-8_TABLE_HOLD", // You need iteminteractioninfo.meta file
+      "AnimFxType": "PlayerDrunk01",
+      "DrunkTime": 60,
+      "Damage": -1
+    }
+  ]
+}

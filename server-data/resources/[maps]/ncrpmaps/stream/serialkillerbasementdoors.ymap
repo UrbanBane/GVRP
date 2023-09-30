@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-1007.997559" y="121.739441" z="-304.227043"/>
+	<streamingExtentsMax x="-207.997559" y="921.739441" z="495.772957"/>
+	<entitiesExtentsMin x="-607.997559" y="521.739441" z="95.772957"/>
+	<entitiesExtentsMax x="-607.997559" y="521.739441" z="95.772957"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_door_barn_r</archetypeName>
+			<flags value="1572897"/>
+			<position x="-607.997559" y="521.739441" z="95.772957"/>
+			<rotation w="0.714116" x="0.615730" y="0.216751" z="-0.252852"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childlodDist value="50"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>
